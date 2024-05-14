@@ -18,7 +18,7 @@ TF-IDF (Term Frequency-Inverse Document Frequency) adalah teknik pembobotan yang
 
 3. Menerapkan Model Machine Learning
 Pada tahapan ini kita akan menerapkan model machine learning. Pada file "2. SHOPEE- ALGORITMA-TESTING", saya menggunakan 5 model algortima klasifikasi yakni:
-- SVM (SUPPORT MACHINE VECTOR)
+- SVM (SUPPORT VECTOR MACHINE)
 - RANDOM FOREST
 - NAIVE BAYES
 - DECISION TREE
