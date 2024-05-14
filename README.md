@@ -23,6 +23,7 @@ Pada tahapan ini kita akan menerapkan model machine learning. Pada file "2. SHOP
 - NAIVE BAYES
 - DECISION TREE
 - GRADIEN BOOSTING CLASIFICTION
+
 Saya juga menggunakan 4 skenario data untuk melihat pembagian data apa yang paling optimal, berikut skenario data yang saya terapkan:
 - skenarion 90:10
 - skenario 80:20
