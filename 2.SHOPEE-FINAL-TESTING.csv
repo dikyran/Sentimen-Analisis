@@ -1,0 +1,797 @@
+,text,score,polarity_score,polarity,stemming_ulasan
+0,['sukses'],5,3,positif,sukses
+1,"['bintang', 'shopee', 'mesen', 'sesuai', 'ekspektasi']",5,1,positif,bintang shopee mesen sesuai ekspektasi
+2,"['tolong', 'toko', 'bertanggung', 'dimasukkan', 'shopee', 'toko', 'fiktifnya', 'shopee']",4,-11,negatif,tolong toko tanggung masuk shopee toko fiktif shopee
+3,['mantappp'],5,2,positif,mantappp
+4,"['dapet', 'barang', 'dapet', 'murah']",5,9,positif,dapet barang dapet murah
+5,"['mantap', 'cepat']",5,14,positif,mantap cepat
+6,"['sukses', 'shopie', 'membantu']",5,11,positif,sukses shopie bantu
+7,"['shopee', 'recommend']",5,2,positif,shopee recommend
+8,['good'],5,5,positif,good
+9,[],4,0,positif,
+10,"['berguna', 'berbelanja', 'online', 'membantu']",5,15,positif,guna belanja online bantu
+11,"['beli', 'beli', 'pembayaran', 'transfer', 'penjual', 'mengirimkan', 'orderannya', 'pembeli', 'kuasa', 'barang', 'diterima', 'ditolak']",1,-12,negatif,beli beli bayar transfer jual kirim order beli kuasa barang terima tolak
+12,['bagus'],3,8,positif,bagus
+13,"['belanja', 'shopee', 'memuaskan', 'diskon']",5,14,positif,belanja shopee muas diskon
+14,['mantap'],5,8,positif,mantap
+15,"['mantaps', 'surantap']",5,1,positif,mantaps surantap
+16,"['recomended', 'banget']",5,1,positif,recomended banget
+17,['berguna'],5,5,positif,guna
+18,"['suka', 'blanja', 'online', 'dishopee']",5,2,positif,suka blanja online dishopee
+19,[],5,2,positif,
+20,['membantu'],5,4,positif,bantu
+21,"['beragam', 'aneka', 'pilihan', 'kebutuhan', 'lengkap', 'metode', 'belanja', 'pembayaran', 'mudah', 'barang', 'aman']",5,0,positif,agam aneka pilih butuh lengkap metode belanja bayar mudah barang aman
+22,"['aplikasi', 'belanja', 'bagus', 'diskon', 'mudah', 'penggunaannya']",5,8,positif,aplikasi belanja bagus diskon mudah guna
+23,"['promo', 'menarik', 'barang', 'murah', 'murah', 'terima kasih', 'shopee']",5,16,positif,promo tarik barang murah murah terima kasih shopee
+24,['bagus'],5,8,positif,bagus
+25,[],1,-2,negatif,
+26,['mantap'],5,8,positif,mantap
+27,"['harga', 'murah', 'berkualitas']",5,12,positif,harga murah kualitas
+28,['bauk'],5,0,positif,bauk
+29,['bagus'],5,8,positif,bagus
+30,[],5,-2,negatif,
+31,[],4,0,positif,
+32,['terima kasih'],5,4,positif,terima kasih
+33,['membantu'],5,4,positif,bantu
+34,[],5,2,positif,
+35,[],5,0,positif,
+36,['bagus'],5,9,positif,bagus
+37,['bagus'],5,8,positif,bagus
+38,['pelayanan'],5,5,positif,layan
+39,"['produk', 'bagus']",5,7,positif,produk bagus
+40,['membatu'],5,0,positif,batu
+41,['mantabbb'],4,0,positif,mantabbb
+42,"['aplikasi', 'berguna']",5,1,positif,aplikasi guna
+43,"['keren', 'sukses', 'shopee']",5,6,positif,keren sukses shopee
+44,[],5,0,positif,
+45,"['peraturan', 'shopee', 'merugikan', 'penjual', 'biaya', 'admin', 'produk', 'naikkan', 'pembayaran', 'cicilan', 'spaylater', 'matikan', 'toko', 'pemberitahuan', 'kesalahan', 'toko', 'otomatis', 'menurunkan', 'penjualan', 'pembeli', 'bayar', 'pakai', 'spaylater', 'kredit', 'peraturan', 'admin', 'shopee', 'semena', 'mena', 'penjual', 'pembeli', 'prihatin', 'toko', 'matikan', 'pembayaran', 'spaylater', 'sepi', 'penjual', 'performa', 'tokonya', 'bagus']",1,-10,negatif,atur shopee rugi jual biaya admin produk naik bayar cicil spaylater mati toko pemberitahuan salah toko otomatis turun jual beli bayar pakai spaylater kredit atur admin shopee semena mena jual beli prihatin toko mati bayar spaylater sepi jual performa toko bagus
+46,"['berterima', 'kasih', 'shopee', 'shopee', 'membantu', 'kebutuhan', 'rumah', 'tangga', 'semoga', 'shopee', 'jaya', 'sukses', 'shopee', 'semoga', 'pocher', 'keluarkan']",5,11,positif,terima kasih shopee shopee bantu butuh rumah tangga moga shopee jaya sukses shopee moga pocher keluar
+47,"['cumah', 'terkadan', 'barang', 'informasinya', 'kulir', 'pascet', 'barang', 'kirim', 'bansat']",4,-4,negatif,cumah kad barang informasi kulir pascet barang kirim bansat
+48,"['pesan', 'gagal', 'kepulauan', 'riau']",1,-8,negatif,pesan gagal pulau riau
+49,"['gatau', 'semenjak', 'update', 'lemot', 'dibanding', 'update', 'kesel', 'banget', 'buka', 'produk', 'ampun', 'tolong', 'perbaiki']",4,-7,negatif,gatau semenjak update lot banding update kesel banget buka produk ampun tolong baik
+50,"['topup', 'sopepay', 'dipakai', 'blanja', 'mkasudnya', 'uang', 'masuk', 'saldo', 'diblanjain', 'berkali', 'kali', 'kejadian', 'bgini', 'saldo', 'checkout', 'promo', 'ngasih', 'voucher', 'gratis', 'ongkir', 'pengguna', 'akun']",1,11,positif,topup sopepay pakai blanja mkasudnya uang masuk saldo diblanjain kali kali jadi bgini saldo checkout promo ngasih voucher gratis ongkir guna akun
+51,"['gambar', 'produk', 'zoom', 'mohon', 'diperbarui']",2,-6,negatif,gambar produk zoom mohon baru
+52,"['menu', 'shopeefoodnya', 'kemana']",1,0,positif,menu shopeefoodnya mana
+53,['membantu'],5,4,positif,bantu
+54,['diskon'],3,2,positif,diskon
+55,"['paham', 'shope']",5,-3,negatif,paham shope
+56,"['keren', 'mudah']",5,6,positif,keren mudah
+57,"['puas', 'semoga', 'sukses', 'kedepannya', 'shopee', 'terdepan']",5,8,positif,puas moga sukses depan shopee depan
+58,"['gimna', 'pengembalian', 'pulangkan', 'alamat', 'tercantum', 'knpa', 'pengiriman', 'nyatakan', 'hilang', 'uang', 'hangus', 'gimna', 'tolong', 'tanggung', 'dapet', 'uang', 'lenyap']",1,-17,negatif,gimna kembali pulang alamat cantum knpa kirim nyata hilang uang hangus gimna tolong tanggung dapet uang lenyap
+59,"['minimal', 'iklannya', 'ngotak', 'download', 'shope', 'hapus', 'kebanyakan', 'iklan']",1,-8,negatif,minimal iklan ngotak download shope hapus banyak iklan
+60,"['bagus', 'aplikasi', 'belanja', 'online', 'cepat', 'pengiriman', 'diskon']",5,11,positif,bagus aplikasi belanja online cepat kirim diskon
+61,"['akun', 'hape', 'vermuk', 'nyaa', 'sukaa', 'gagaal', 'teruuss', 'gaada', 'tema', 'gelap', 'kaya', 'apk', 'online', 'shop']",4,-16,negatif,akun hape vermuk nyaa sukaa gagaal teruuss gaada tema gelap kaya apk online shop
+62,['timo'],5,0,positif,timo
+63,"['aplikasi', 'membntu', 'amanah', 'pesann', 'cocok', 'cocok', 'makasi', 'shopiy']",5,-3,negatif,aplikasi membntu amanah pesann cocok cocok makas shopiy
+64,"['busuk', 'beli', 'paket', 'nyampenya', 'munggu']",1,-2,negatif,busuk beli paket nyampenya munggu
+65,"['cekout', 'sellu', 'bilang', 'voucer', 'bikin', 'taunya', 'pesan']",2,-1,negatif,cekout sellu bilang voucer bikin tau pesan
+66,"['repot', 'banget', 'shopee', 'food', 'ilang']",3,-9,negatif,repot banget shopee food ilang
+67,"['aplikasi', 'belanja', 'murah', 'mantap']",5,11,positif,aplikasi belanja murah mantap
+68,"['pesan', 'shopee', 'reseller', 'amanah', 'mohon', 'minimalisir', 'semoga', 'sukses', 'shopee']",5,7,positif,pesan shopee reseller amanah mohon minimalisir moga sukses shopee
+69,"['sanagat', 'menarik']",5,0,positif,sanagat tarik
+70,"['penghasilan', 'shopee', 'kepotong', 'ongkir', 'lapor', 'perbedaan', 'alamat', 'pengiriman', 'domisili', 'smaa']",1,-13,negatif,hasil shopee potong ongkir lapor beda alamat kirim domisili smaa
+71,['gacorrr'],5,0,positif,gacorrr
+72,"['bagus', 'membantu']",5,12,positif,bagus bantu
+73,['puas'],5,3,positif,puas
+74,"['shopee', 'belanja', 'murah', 'mudah']",5,12,positif,shopee belanja murah mudah
+75,"['terima', 'kasih']",5,3,positif,terima kasih
+76,"['paket', 'gagal', 'terkirim', 'pakai', 'jasa', 'rumah', 'orang', 'niat', 'kerja', 'resign']",1,9,positif,paket gagal kirim pakai jasa rumah orang niat kerja resign
+77,"['mantap', 'membantu', 'memudahkan', 'berbelanja']",5,23,positif,mantap bantu mudah belanja
+78,"['mantap', 'mudah', 'prosesnya', 'puas', 'posisi', 'perjalanan', 'barang', 'tolong', 'update', 'akurat']",5,10,positif,mantap mudah proses puas posisi jalan barang tolong update akurat
+79,['bagus'],1,8,positif,bagus
+80,"['akuntabel', 'berat', 'sebelah', 'seller', 'buyer', 'layanan', 'aplikasi', 'recommended']",5,-12,negatif,akuntabel berat belah seller buyer layan aplikasi recommended
+81,['mantab'],5,2,positif,mantab
+82,['psan'],3,0,positif,psan
+83,['bagus'],5,8,positif,bagus
+84,['good'],5,5,positif,good
+85,['keren'],5,3,positif,keren
+86,"['barangnya', 'bagus', 'penyematan', 'star', 'mall', 'gaptek', 'mudah', 'mencari', 'barang', 'kwalitas', 'recommended', 'promo', 'pilihan', 'pembayaran', 'ekspedisi', 'barang', 'sesuai', 'cocok', 'ditukar', 'terima', 'kasih', 'pelayanannya', 'shopee']",5,9,positif,barang bagus semat star mall gaptek mudah cari barang kwalitas recommended promo pilih bayar ekspedisi barang sesuai cocok tukar terima kasih layan shopee
+87,"['muncul', 'shopee', 'chrome', 'donlot', 'lagu', 'youtube']",1,-3,negatif,muncul shopee chrome donlot lagu youtube
+88,"['maaf', 'bintang', 'kurirnya', 'malas']",1,-7,negatif,maaf bintang kurir malas
+89,"['error', 'mulu', 'apdet', 'tetep', 'error']",3,-10,negatif,error mulu apdet tetep error
+90,['bagus'],5,8,positif,bagus
+91,"['bnyak', 'admin', 'menyukitkan']",1,0,positif,bnyak admin menyukitkan
+92,"['shopee', 'tampilan', 'beranda', 'bagus', 'navigasi', 'mudah', 'kendala', 'belanja', 'shopee']",5,12,positif,shopee tampil beranda bagus navigasi mudah kendala belanja shopee
+93,"['mank', 'bhest']",5,0,positif,mank bhest
+94,['promo'],5,3,positif,promo
+95,"['mantap', 'gratis', 'onkir']",5,15,positif,mantap gratis onkir
+96,"['senang', 'make', 'aplikasi']",5,-3,negatif,senang make aplikasi
+97,"['belanja', 'mudah']",5,8,positif,belanja mudah
+98,['good'],5,5,positif,good
+99,['keren'],5,3,positif,keren
+100,['samping'],5,-14,negatif,samping
+101,"['aplikasi', 'bagus', 'respon', 'cepat', 'pokok', 'sukses', 'shopee', 'tingkatkan', 'pelayanan', 'virtual', 'account', 'cimb', 'niaga']",5,12,positif,aplikasi bagus respon cepat pokok sukses shopee tingkat layan virtual account cimb niaga
+102,['cool'],5,2,positif,cool
+103,['mantap'],5,8,positif,mantap
+104,['berat'],3,2,positif,berat
+105,['banget'],5,1,positif,banget
+106,[],5,0,positif,
+107,"['imutuy', 'cdma', 'derry', 'soft', 'touch', 'screen', 'windows', 'mudah', 'mengusir', 'setan', 'tjrt']",4,-13,negatif,imutuy cdma derry soft touch screen windows mudah usir setan tjrt
+108,"['rekomendasi', 'jual', 'beli', 'online']",5,0,positif,rekomendasi jual beli online
+109,"['mantap', 'sesuai', 'keinginam']",5,11,positif,mantap sesuai keinginam
+110,[],5,0,positif,
+111,"['mantap', 'banget', 'pengiriman', 'barang', 'order', 'shopee', 'tanggal', 'april', 'april', 'belom', 'sampe', 'shopee']",1,-4,negatif,mantap banget kirim barang order shopee tanggal april april bom sampe shopee
+112,"['hemat', 'uang']",5,1,positif,hemat uang
+113,"['shopee', 'food', 'ilang', 'icon', 'keuangan', 'shopee']",1,-7,negatif,shopee food ilang icon uang shopee
+114,[],5,0,positif,
+115,"['diskon', 'nggak', 'nonton', 'live', 'tulisannya', 'mendownload', 'fitur', 'ditungguin', 'nggak', 'jalan', 'download']",4,1,positif,diskon nggak nonton live tulis mendownload fitur ditungguin nggak jalan download
+116,['jelek'],1,-5,negatif,jelek
+117,"['diskon', 'bantu', 'kenorang', 'mamapu', 'terima kasih', 'shoope']",5,3,positif,diskon bantu kenorang mamapu terima kasih shoope
+118,"['keren', 'puas', 'belanja', 'shopee']",5,10,positif,keren puas belanja shopee
+119,[],5,0,positif,
+120,['jelass'],1,0,positif,jelass
+121,"['pembayaran', 'shopee', 'food', 'susah', 'banget', 'pakai', 'fitur', 'jalan', 'progres']",2,-1,negatif,bayar shopee food susah banget pakai fitur jalan progres
+122,['amanah'],5,5,positif,amanah
+123,['membantu'],4,4,positif,bantu
+124,"['memesan', 'barang', 'membelinya', 'pesanan', 'rumahku', 'korfimasi', 'alasan', 'pesanan', 'barang', 'gagal', 'dibatalkan', 'otomatis', 'dipencet', 'pembeli', 'aplikasi']",2,-18,negatif,mes barang bel pesan rumah korfimasi alas pesan barang gagal batal otomatis pencet beli aplikasi
+125,"['aplikasi', 'jelek']",1,-11,negatif,aplikasi jelek
+126,['makasihh'],5,0,positif,makasihh
+127,"['masia', 'lalier']",1,0,positif,masia lalier
+128,[],5,0,positif,
+129,['hebat'],5,0,positif,hebat
+130,"['buruk', 'shopee', 'expres', 'palu', 'kasih', 'sehari', 'transferan', 'barang', 'ambil', 'besok', 'gila', 'kali', 'kesni', 'muak', 'perbaiki', 'pengiriman']",1,-22,negatif,buruk shopee expres palu kasih hari transfer barang ambil besok gila kali kesni muak baik kirim
+131,"['megatar', 'paket']",5,4,positif,megatar paket
+132,['bagus'],5,8,positif,bagus
+133,"['rasakan', 'part', 'time', 'kecewa', 'lakukan', 'susah', 'bikin', 'susah']",1,-10,negatif,rasa part time kecewa laku susah bikin susah
+134,"['pakai', 'boke']",4,0,positif,pakai boke
+135,['bagus'],5,8,positif,bagus
+136,['buruk'],1,-5,negatif,buruk
+137,"['voucher', 'kekasih', 'bintang']",3,3,positif,voucher kasih bintang
+138,"['membantu', 'membeli', 'produk', 'harga', 'murah', 'berkualitas']",5,18,positif,bantu beli produk harga murah kualitas
+139,"['berat', 'lemooooot']",3,3,positif,berat lemooooot
+140,"['shopee', 'jelek', 'upload', 'video', 'banget', 'error', 'tolong', 'developers', 'perbaiki']",2,-13,negatif,shopee jelek upload video banget error tolong developers baik
+141,"['bagus', 'banget']",5,9,positif,bagus banget
+142,"['lemot', 'parah', 'tolong', 'perbaiki']",3,-9,negatif,lot parah tolong baik
+143,"['jelek', 'masuk', 'pakai']",5,-11,negatif,jelek masuk pakai
+144,"['shopee', 'membantu']",1,4,positif,shopee bantu
+145,"['barang', 'sesuai']",5,3,positif,barang sesuai
+146,['mantap'],5,8,positif,mantap
+147,"['membantu', 'keperluan', 'terima', 'kasih', 'shopee']",5,12,positif,bantu perlu terima kasih shopee
+148,"['akurat', 'cepat', 'terpecaya']",5,6,positif,akurat cepat terpecaya
+149,"['barangnya', 'bagus', 'memuaskan']",5,16,positif,barang bagus muas
+150,['tenan'],5,0,positif,tenan
+151,['lemot'],4,-5,negatif,lot
+152,"['bagus', 'membantu']",5,11,positif,bagus bantu
+153,[],3,2,positif,
+154,['amanah'],5,5,positif,amanah
+155,"['fitur', 'tampilan', 'beranda', 'bagus', 'memanjakan', 'dompet', 'ekspedisi', 'entaraja', 'dipake', 'dijasa', 'pengiriman', 'bayangin', 'butuh', 'barang', 'secepatnya', 'ketahan', 'digudang', 'tinggal', 'diantar', 'kurir', 'gerak', 'bikin', 'emosi', 'ekspedisi', 'hilang', 'playstore', 'merugikan', 'pelanggan', 'buruknya', 'layanan', 'hapus']",2,-4,negatif,fitur tampil beranda bagus manja dompet ekspedisi entaraja dipake jasa kirim bayangin butuh barang cepat tahan gudang tinggal antar kurir gerak bikin emosi ekspedisi hilang playstore rugi langgan buruk layan hapus
+156,"['sesuai', 'orang', 'beli', 'sepatu', 'datangnya', 'celana']",4,8,positif,sesuai orang beli sepatu datang celana
+157,"['bermanfaat', 'recommen', 'bgttt']",5,9,positif,manfaat recommen bgttt
+158,"['payah', 'pengiriman', 'barang', 'banget', 'estimasi', 'melebihi', 'batas', 'estimasi', 'kedatangan', 'barang', 'dipesan', 'mending', 'bikin', 'pengiriman', 'prioritas', 'biar']",1,-21,negatif,payah kirim barang banget estimasi lebih batas estimasi datang barang pes mending bikin kirim prioritas biar
+159,"['paylater', 'dikasi', 'spinjam', 'ditolak', 'pdhl', 'tertib']",1,-2,negatif,paylater kasi spinjam tolak pdhl tertib
+160,[],5,0,positif,
+161,[],5,0,positif,
+162,"['shopee', 'bikin', 'ribet']",4,-4,negatif,shopee bikin ribet
+163,"['payah', 'spaylater', 'pakai', 'belanja', 'pulsa']",1,2,positif,payah spaylater pakai belanja pulsa
+164,"['shope', 'lemot']",5,-6,negatif,shope lot
+165,"['shopee', 'baca', 'kontak', 'panggilan']",1,-4,negatif,shopee baca kontak panggil
+166,['puas'],5,3,positif,puas
+167,"['shoope', 'food', 'mantap', 'jarang', 'mengecewakan']",5,5,positif,shoope food mantap jarang kecewa
+168,"['pesanan', 'sesuai']",5,3,positif,pesan sesuai
+169,['mantap'],5,10,positif,mantap
+170,"['memudahkan', 'kebutuhan', 'dibeli', 'rumah']",5,4,positif,mudah butuh beli rumah
+171,"['penjualan', 'barang', 'palsu']",4,0,positif,jual barang palsu
+172,"['penipuan', 'bertanggung', 'penjual', 'shopee']",1,-17,negatif,tipu tanggung jual shopee
+173,"['diperbarui', 'lemot', 'bagus', 'sblh']",2,5,positif,baru lot bagus sblh
+174,"['iklannya', 'tolong', 'aktifkan', 'layanan', 'iklan', 'shopee', 'iklan', 'muncul', 'layar', 'beranda', 'buka', 'aplikasinya', 'langsung', 'muncul', 'iklqn', 'layar', 'beranda']",1,-11,negatif,iklan tolong aktif layan iklan shopee iklan muncul layar beranda buka aplikasi langsung muncul iklqn layar beranda
+175,['aplikasi'],5,-2,negatif,aplikasi
+176,"['bagus', 'ngebantu', 'belanja', 'online']",5,13,positif,bagus ngebantu belanja online
+177,['markotop'],5,0,positif,markotop
+178,"['senang', 'shoppe', 'memudahkan', 'belanja', 'repot', 'rumah']",5,2,positif,senang shoppe mudah belanja repot rumah
+179,"['shopee', 'bagus']",5,8,positif,shopee bagus
+180,"['bagus', 'inspirasi']",1,4,positif,bagus inspirasi
+181,"['pick', 'pengiriman', 'mepet']",1,-8,negatif,pick kirim mepet
+182,['ggvv'],1,0,positif,ggvv
+183,[],5,0,positif,
+184,"['sanggat', 'bagus']",5,8,positif,sanggat bagus
+185,['mantap'],5,8,positif,mantap
+186,['bagus'],5,8,positif,bagus
+187,['mantap'],2,8,positif,mantap
+188,"['pembayaran', 'spaylater', 'spinjam', 'ngapain', 'bikin', 'seribet', 'mending', 'kemarin', 'langsung', 'clik', 'bayar', 'clik', 'persatu', 'ribet', 'banget', 'pembayaran', 'pola', 'berpikirmu', 'develop', 'super', 'duper', 'ribet', 'gaya', 'hidupmu', 'ribet']",1,-15,negatif,bayar spaylater spinjam ngapain bikin seribet mending kemarin langsung clik bayar clik satu ribet banget bayar pola pikir develop super duper ribet gaya hidup ribet
+189,[],5,2,positif,
+190,['terbaik'],5,5,positif,baik
+191,"['aplikasi', 'bagus', 'menaraik']",5,4,positif,aplikasi bagus menaraik
+192,"['admin', 'shope', 'kagak']",1,-6,negatif,admin shope kagak
+193,"['shopee', 'aplikasi', 'maling', 'duit', 'orang', 'kembalikan', 'duit', 'orang', 'maling', 'miris', 'sekelas', 'shopee', 'maling']",1,-13,negatif,shopee aplikasi maling duit orang kembali duit orang maling miris kelas shopee maling
+194,[],5,2,positif,
+195,"['bagus', 'banget', 'gengs']",5,9,positif,bagus banget gengs
+196,"['baguss', 'bagus', 'serasi', 'suka', 'gasi', 'cape', 'berharap']",5,2,positif,baguss bagus serasi suka gas cape harap
+197,"['shopee', 'ngawur', 'skrang', 'kaya', 'beli', 'kipas', 'angin', 'harga', 'klik', 'keterangan', 'situ', 'gratis', 'ongkir', 'sisa', 'sisa', 'ongkir', 'segitu', 'total', 'mesti', 'gratis', 'ongkir']",1,-10,negatif,shopee ngawur skrang kaya beli kipas angin harga klik terang situ gratis ongkir sisa sisa ongkir segitu total mesti gratis ongkir
+198,[],5,0,positif,
+199,"['lumayan', 'enak', 'promo']",5,3,positif,lumayan enak promo
+200,"['shope', 'tolong', 'urus', 'expedisi', 'denpasar', 'selatan', 'bali', 'kurir', 'jujur', 'berkali', 'paket', 'dinyatakan', 'hilang', 'paket', 'bayar', 'keterangan', 'paketn', 'hilang', 'kurir', 'bermasalah', 'tolong', 'rugi', 'kana', 'nunggu', 'barang', 'hilang']",3,-17,negatif,shope tolong urus expedisi denpasar selatan bal kurir jujur kali paket nyata hilang paket bayar terang paketn hilang kurir masalah tolong rugi kana nunggu barang hilang
+201,"['segalapesanan', 'alhamdulah', 'aman']",5,0,positif,segalapesanan alhamdulah aman
+202,[],3,0,positif,
+203,"['shopee', 'keren']",5,3,positif,shopee keren
+204,"['aplikasi', 'belanja', 'online', 'terbaik', 'pengalaman', 'pesan', 'senin', 'besoknya', 'rumah', 'curiga', 'beneran', 'beratnya', 'kurirnya', 'balikin', 'diaplikasi', 'sebelah', 'berwarna', 'biru', 'berinisial', 'balikinnya', 'pakai', 'aplikasi', 'balikin', 'aplikasi', 'ngelag', 'parah', 'kaya', 'disengajai', 'loadingnya', 'gagal', 'repot', 'pokoknya', 'aplikasi', 'berbeda', 'loadingnya', 'cepet', 'aplikasinya', 'berat']",5,-69,negatif,aplikasi belanja online baik alam pesan senin besok rumah curiga beneran berat kurir balikin aplikasi belah warna biru inisial balikinnya pakai aplikasi balikin aplikasi ngelag parah kaya sengaja loadingnya gagal repot pokok aplikasi beda loadingnya cepet aplikasi berat
+205,['peraktis'],5,0,positif,peraktis
+206,"['aplikasinya', 'aneh', 'pesen', 'ngilang', 'pesanan']",1,-12,negatif,aplikasi aneh sen ngilang pesan
+207,"['memuaskan', 'keluarga']",5,6,positif,muas keluarga
+208,"['senang', 'aplikasi', 'shopee', 'membantu', 'membeli', 'barang', 'shopee', 'smua', 'mudah', 'tinggal', 'pesan', 'rumah', 'aman']",5,-25,negatif,senang aplikasi shopee bantu beli barang shopee smua mudah tinggal pesan rumah aman
+209,['mudah'],5,3,positif,mudah
+210,"['shopee', 'knpa', 'pengiriman', 'bgini', 'pdahal', 'drmh', 'bilang', 'barang', 'sdah', 'buka', 'kembalikan', 'paket', 'bilang', 'drmh', 'drmh', 'menurun', 'pengiriman', 'paket', 'males', 'auto', 'uninstall']",2,-33,negatif,shopee knpa kirim bgini pdahal drmh bilang barang sdah buka kembali paket bilang drmh drmh turun kirim paket males auto uninstall
+211,"['gratiss', 'ongkir']",5,0,positif,gratiss ongkir
+212,"['pencarian', 'sangatx', 'jelek', 'banget', 'dicari', 'sortir', 'parah', 'jelek']",1,-24,negatif,cari sangatx jelek banget cari sortir parah jelek
+213,['puas'],5,2,positif,puas
+214,"['coba', 'mudah', 'ribet']",5,0,positif,coba mudah ribet
+215,"['beli', 'paket', 'data', 'shopee', 'tulisannya', 'masuk', 'kali', 'beli']",4,-12,negatif,beli paket data shopee tulis masuk kali beli
+216,"['update', 'browsing', 'lelet', 'boros', 'data', 'belanja', 'online', 'nyaman', 'boros', 'data', 'tolong', 'diperbaiki', 'pelanggan', 'belanja', 'shopee', 'terima kasih']",1,-5,negatif,update browsing lelet boros data belanja online nyaman boros data tolong baik langgan belanja shopee terima kasih
+217,['shopeh'],5,2,positif,shopeh
+218,"['pesanan', 'sesuai', 'opsi']",5,3,positif,pesan sesuai opsi
+219,['shopee'],5,-2,negatif,shopee
+220,"['bagus', 'pelayanan', 'bagus', 'cepet']",5,18,positif,bagus layan bagus cepet
+221,"['login', 'pakai', 'gagal']",2,-8,negatif,login pakai gagal
+222,"['spaylater', 'spinjam', 'bekukan', 'lihat', 'barang', 'iklan', 'mulu', 'kocak', 'kocak']",1,-2,negatif,spaylater spinjam beku lihat barang iklan mulu kocak kocak
+223,"['kesini', 'aplikasi', 'lemot', 'voucher', 'gratis', 'ongkir', 'langka', 'kasih', 'jempol']",1,6,positif,kesini aplikasi lot voucher gratis ongkir langka kasih jempol
+224,"['belanja', 'mood', 'loading', 'produk', 'stuk', 'ngefreeze', 'pdhl', 'sinyal', 'aman', 'panas', 'pdhl', 'main', 'game', 'aman', 'buka', 'bentar', 'doang', 'panas']",1,11,positif,belanja mood loading produk stuk ngefreeze pdhl sinyal aman panas pdhl main game aman buka bentar doang panas
+225,"['suka', 'loding', 'jaringan', 'pesan', 'makan', 'shope', 'ngak', 'driver', 'coba', 'smpai', 'jakarta', 'utara']",4,4,positif,suka loding jaring pesan makan shope ngak driver coba smpai jakarta utara
+226,['cepat'],5,6,positif,cepat
+227,"['memuaskan', 'bagus']",5,16,positif,muas bagus
+228,"['paket', 'banget', 'sampenya', 'sampe']",1,0,positif,paket banget sampenya sampe
+229,"['riwayat', 'pembelanjaan', 'belanja', 'kecewa', 'alamat', 'sesuai', 'riwayat', 'ratusan']",1,-6,negatif,riwayat belanja belanja kecewa alamat sesuai riwayat ratus
+230,"['bintang', 'bicara']",5,0,positif,bintang bicara
+231,"['kerjasama', 'shope', 'senang', 'keraguan', 'kerjax', 'kecewa', 'kekurang', 'telitian', 'mengambil', 'tindakan', 'lakukan', 'terima', 'kasih', 'shope']",5,-13,negatif,kerjasama shope senang ragu kerjax kecewa kurang teliti ambil tindak laku terima kasih shope
+232,"['kali', 'kasih', 'vocher', 'dikon']",2,0,positif,kali kasih vocher dikon
+233,"['shopee', 'food', 'hilang']",1,-1,negatif,shopee food hilang
+234,"['aplikasi', 'bagus', 'banget', 'beli', 'apapun', 'jenis', 'alat', 'elektronik', 'alat', 'rumah', 'tangga', 'pakaian']",5,6,positif,aplikasi bagus banget beli apa jenis alat elektronik alat rumah tangga pakai
+235,['bagus'],5,8,positif,bagus
+236,[],5,2,positif,
+237,"['suka', 'tbtb', 'then', 'batalin', 'barang', 'gercep', 'must', 'wait', 'tokonya', 'cancel', 'suka']",3,-9,negatif,suka tbtb then batalin barang gercep must wait toko cancel suka
+238,"['senang', 'belanja', 'aman', 'shopee', 'menjaga', 'keamanan', 'akun', 'pelanggan']",5,9,positif,senang belanja aman shopee jaga aman akun langgan
+239,"['mempermudah', 'blja', 'shoopee']",5,-3,negatif,mudah blja shoopee
+240,"['pakai', 'shopee']",5,0,positif,pakai shopee
+241,"['tarik', 'yimpan', 'kemana']",2,2,positif,tarik yimpan mana
+242,['sekaliii'],5,2,positif,sekaliii
+243,"['berbelanja', 'mudah']",5,9,positif,belanja mudah
+244,"['sinyal', 'lemot']",3,-5,negatif,sinyal lot
+245,"['aplikasi', 'bermasalah', 'fitur', 'kotak', 'masuk', 'login', 'berulangkali', 'coba', 'login', 'gagal', 'suudah', 'login', 'sukses', 'logout', 'khusus', 'kotak', 'masuk', 'uninstall', 'login', 'login', 'buka', 'force', 'close', 'coba', 'versi', 'lite', 'aman', 'transaksi']",3,-31,negatif,aplikasi masalah fitur kotak masuk login berulangkali coba login gagal suudah login sukses logout khusus kotak masuk uninstall login login buka force close coba versi lite aman transaksi
+246,[],5,0,positif,
+247,['membantu'],5,4,positif,bantu
+248,"['merugikan', 'penjual', 'terkait', 'produk', 'custom']",2,0,positif,rugi jual kait produk custom
+249,"['aplikasinya', 'bagus', 'bermanfaat']",5,13,positif,aplikasi bagus manfaat
+250,['bagus'],5,8,positif,bagus
+251,"['parah', 'diinstal', 'ulang', 'login', 'nomer', 'password', 'disuruh', 'verivikasi', 'scan', 'scan', 'login', 'kacau', 'pesenam', 'bayar', 'barangnya', 'dilacak', 'login', 'chat', 'komputer']",1,-14,negatif,parah diinstal ulang login nomer password suruh verivikasi scan scan login kacau senam bayar barang lacak login chat komputer
+252,['good'],5,5,positif,good
+253,['baikkk'],5,0,positif,baikkk
+254,['bagus'],5,8,positif,bagus
+255,['bagus'],4,8,positif,bagus
+256,"['shoope', 'food', 'pindah', 'kemana']",3,-2,negatif,shoope food pindah mana
+257,"['bagus', 'kejadian', 'orderan', 'mixer', 'chanel', 'batalkan', 'shopee', 'menutup', 'toko', 'toko', 'ngirim', 'alamat', 'paket', 'alas', 'kaki', 'botol', 'mineral', 'sesuai', 'pesanan']",5,5,positif,bagus jadi order mixer chanel batal shopee tutup toko toko ngirim alamat paket alas kaki botol mineral sesuai pesan
+258,[],1,0,positif,
+259,['nice'],5,4,positif,nice
+260,['bagus'],5,8,positif,bagus
+261,"['kapitalist', 'apps']",1,0,positif,kapitalist apps
+262,"['semenjak', 'pembaharuan', 'fitur', 'shopee', 'memakai', 'gratis', 'ongkir', 'harga', 'mahal', 'kali', 'lipat', 'lapor', 'instagram', 'rugi', 'pembisnis', 'belanja', 'aplikasi', 'kecewa']",1,-20,negatif,semenjak baharu fitur shopee pakai gratis ongkir harga mahal kali lipat lapor instagram rugi bisnis belanja aplikasi kecewa
+263,"['barang', 'dijual', 'beragam', 'harganya', 'terjangkau']",5,-3,negatif,barang jual agam harga jangkau
+264,"['barang', 'dabest', 'pokoknya', 'shopee']",5,-3,negatif,barang dabest pokok shopee
+265,['kasih'],5,1,positif,kasih
+266,['mantap'],5,8,positif,mantap
+267,"['shopee', 'emang', 'best']",5,2,positif,shopee emang best
+268,"['langganan', 'belanja', 'toko']",5,8,positif,langgan belanja toko
+269,['mantapppp'],5,0,positif,mantapppp
+270,[],5,0,positif,
+271,"['aplikasi', 'tolol', 'cekout', 'aktivitas', 'mencurigakan']",1,-9,negatif,aplikasi tolol cekout aktivitas curiga
+272,['mantap'],5,8,positif,mantap
+273,"['semalam', 'pagi', 'buka', 'layarnya', 'kedap', 'kedip', 'uninstall', 'instal', 'update', 'langsung', 'update', 'kebuka']",1,-1,negatif,malam pagi buka layar kedap kedip uninstall instal update langsung update buka
+274,"['membantu', 'menemukan', 'kebutuhan', 'sehari']",5,10,positif,bantu temu butuh hari
+275,"['pengiriman', 'reguler', 'setaun', 'shopee', 'hemat', 'wkwkwk', 'seabad', 'kali', 'ngab', 'wkwk']",1,-1,negatif,kirim reguler taun shopee hemat wkwkwk abad kali ngab wkwk
+276,"['iklan', 'napa', 'benci']",1,-3,negatif,iklan napa benci
+277,"['marketplas', 'mencoba', 'mencari', 'produk', 'termurah', 'terjangkau', 'minati']",5,-13,negatif,marketplas coba cari produk murah jangkau minat
+278,"['paket', 'hilang', 'tanggungjawab', 'komplain', 'berbelit', 'menyelesaikan']",1,-1,negatif,paket hilang tanggungjawab komplain belit selesai
+279,"['shopee', 'emng']",5,0,positif,shopee emng
+280,['joss'],5,0,positif,joss
+281,[],5,2,positif,
+282,"['aplikasi', 'berbelanja', 'puas', 'belanja', 'shopee', 'gratis', 'ongkir', 'diskon']",5,12,positif,aplikasi belanja puas belanja shopee gratis ongkir diskon
+283,['qwetr'],1,0,positif,qwetr
+284,"['shoppe', 'buka', 'aplikasi', 'dikit', 'dikit', 'iklan', 'shoppe', 'tolong', 'perbaiki', 'ganggu', 'banget', 'kelas', 'iklan', 'shoppe', 'buka', 'shopee', 'sihh', 'kali', 'perbaiki', 'terima kasih']",2,-24,negatif,shoppe buka aplikasi dikit dikit iklan shoppe tolong baik ganggu banget kelas iklan shoppe buka shopee sihh kali baik terima kasih
+285,[],5,0,positif,
+286,"['cepat', 'paget']",5,2,positif,cepat paget
+287,['baguss'],3,0,positif,baguss
+288,"['shoope', 'best']",5,2,positif,shoope best
+289,"['bermanfaat', 'membantu']",5,9,positif,manfaat bantu
+290,"['updtate', 'buka', 'shopee', 'video', 'gila', 'aplikasi']",1,-6,negatif,updtate buka shopee video gila aplikasi
+291,['perfect'],5,0,positif,perfect
+292,"['membantu', 'keperluan', 'beli', 'barang']",5,7,positif,bantu perlu beli barang
+293,"['kecewa', 'memilih', 'berbelanja', 'shopee', 'semoga', 'shopee', 'menjaga', 'kepercayaan', 'konsumen']",5,3,positif,kecewa pilih belanja shopee moga shopee jaga percaya konsumen
+294,['membantu'],5,4,positif,bantu
+295,['semuaaa'],5,0,positif,semuaaa
+296,"['barang', 'bagus', 'amanah']",5,13,positif,barang bagus amanah
+297,"['shopee', 'bagus', 'sebelah', 'upsss', 'keceplosan']",5,-1,negatif,shopee bagus belah upsss ceplos
+298,"['error', 'pembayaran']",1,-5,negatif,error bayar
+299,['iklan'],1,0,positif,iklan
+300,"['kemarin', 'shopee', 'vidio', 'hpku', 'buka']",5,0,positif,kemarin shopee vidio hpku buka
+301,"['tolong', 'ngasi', 'info', 'spinjam', 'ngasi', 'info', 'pengajuan', 'spinjam', 'pengajuan', 'tolak', 'ngasi', 'info', 'disuruh', 'pengajuan', 'ujung', 'zonk', 'request', 'limi', 'paylater', 'naikin', 'biar', 'belanja', 'terlambat', 'tempo', 'pembayaran', 'paylater', 'pengajuan', 'spinjam', 'tolak', 'stop', 'ngasi', 'info', 'spinjam']",5,-41,negatif,tolong ngasi info spinjam ngasi info aju spinjam aju tolak ngasi info suruh aju ujung zonk request limi paylater naikin biar belanja lambat tempo bayar paylater aju spinjam tolak stop ngasi info spinjam
+302,['membntu'],5,0,positif,membntu
+303,"['shoppe', 'kesni', 'pickup', 'kurir', 'diacak', 'kadang', 'nungguin', 'kurir', 'pickup', 'ujung', 'nya', 'anter', 'paket', 'pengriman', 'regular', 'kyak', 'instan', 'proses', 'sehari', 'nyusahin', 'merugikan', 'seller', 'biaya', 'admin', 'gede', 'menguntungkan', 'seller', 'pindah', 'toko', 'sistem', 'diotak', 'atik', 'buruk', 'menguntungkan']",1,-22,negatif,shoppe kesni pickup kurir acak kadang nungguin kurir pickup ujung nya anter paket rim regular kyak instan proses hari nyusahin rugi seller biaya admin gede untung seller pindah toko sistem otak atik buruk untung
+304,"['kasih', 'bintang']",5,-5,negatif,kasih bintang
+305,"['kecewa', 'pelayanannya']",1,0,positif,kecewa layan
+306,"['hilangkan', 'shoope', 'video']",2,0,positif,hilang shoope video
+307,"['aplikasi', 'belanja', 'online', 'mudah', 'langganan', 'shoppe']",5,7,positif,aplikasi belanja online mudah langgan shoppe
+308,"['membantu', 'belanja', 'rumah']",5,5,positif,bantu belanja rumah
+309,"['ngawur', 'sesuai', 'pesanan', 'pengantaran', 'kurir', 'namanya', 'firman', 'barang', 'terima', 'diterima', 'pengantaran', 'meleset', 'titipkan', 'orang', 'rumah', 'pesanan', 'kurir', 'shoope', 'pesanan', 'gagal', 'pesanan', 'diselesaikan', 'kurirnya', 'diterim', 'barang', 'dicolong', 'kurirnya', 'pakai', 'kurir', 'shoope']",1,-18,negatif,ngawur sesuai pesan antar kurir nama firman barang terima terima antar meleset titip orang rumah pesan kurir shoope pesan gagal pesan selesai kurir rim barang colong kurir pakai kurir shoope
+310,['baguslah'],5,0,positif,bagus
+311,"['shopee', 'kesini', 'kesana', 'gagal', 'lihat', 'gambar', 'product', 'lemot', 'lelet', 'tolong', 'diperbaiki', 'bugnya']",1,1,positif,shopee kesini kesana gagal lihat gambar product lot lelet tolong baik bugnya
+312,['terima kasih'],5,5,positif,terima kasih
+313,"['shopee', 'kagak', 'bayar', 'pulsa', 'pakai', 'shopeepay', 'pembayarannya', 'diverifikasi', 'butuh', 'butuhnya', 'kecewa', 'berat']",1,-18,negatif,shopee kagak bayar pulsa pakai shopeepay bayar verifikasi butuh butuh kecewa berat
+314,['bagus'],5,8,positif,bagus
+315,['good'],5,5,positif,good
+316,['mantap'],5,8,positif,mantap
+317,"['hati', 'hati', 'kecurangan', 'shopee', 'biaya', 'admin', 'penjualan', 'dipotong', 'transaksi', 'bahayanya', 'permainan', 'orang', 'lapangan']",1,9,positif,hati hati curang shopee biaya admin jual potong transaksi bahaya main orang lapang
+318,"['berpegang', 'teguh', 'hukum', 'alqur']",5,4,positif,pegang teguh hukum alqur
+319,"['nyesel', 'beli', 'paket', 'internet', 'shopee', 'terlanjur', 'persen', 'masuk', 'dikenal', 'tarik']",1,-6,negatif,nyesel beli paket internet shopee lanjur persen masuk kenal tarik
+320,[],4,0,positif,
+321,"['shopee', 'lemot', 'jaringan', 'bagus', 'toko', 'tulisan', 'checkout', 'pakai', 'gratis', 'ongkir', 'toko', 'gratis', 'ongkir', 'pakai', 'voucher', 'anehhhhh', 'banget']",3,10,positif,shopee lot jaring bagus toko tulis checkout pakai gratis ongkir toko gratis ongkir pakai voucher anehhhhh banget
+322,"['maaf', 'kasih', 'kecewa', 'bertahun', 'pakai', 'kecewa', 'shopee']",1,-3,negatif,maaf kasih kecewa tahun pakai kecewa shopee
+323,"['mantapppppppp', 'liat', 'ulasan', 'komen', 'lancar', 'bnyak', 'tobrut']",5,6,positif,mantapppppppp liat ulas komen lancar bnyak tobrut
+324,['iklan'],4,0,positif,iklan
+325,"['penak', 'dinggo']",5,0,positif,penak dinggo
+326,['kereeen'],5,0,positif,kereeen
+327,"['malas', 'dikit', 'shopepay']",1,-8,negatif,malas dikit shopepay
+328,[],1,0,positif,
+329,['ngebug'],1,0,positif,ngebug
+330,"['semoga', 'membantu', 'penjualan', 'online']",5,1,positif,moga bantu jual online
+331,"['shopee', 'suka', 'erorr', 'loading', 'mulu', 'bayar', 'mulu', 'super', 'lemot', 'aplikasinya', 'maaf', 'bintang', 'kesel', 'banget', 'buka', 'shopee']",3,-15,negatif,shopee suka erorr loading mulu bayar mulu super lot aplikasi maaf bintang kesel banget buka shopee
+332,"['aplikasi', 'shopee', 'terbaru', 'playstore', 'crash', 'update', 'terbaru', 'clear', 'cache', 'restart', 'aplikasi', 'reinstal', 'aplikasi', 'restart', 'menambah', 'memory', 'internal', 'crash', 'tolong', 'diperbaiki', 'aplikasi', 'shopee', 'respon', 'cepet', 'instal', 'shopee', 'versi', 'update', 'stabil', 'getapps', 'xiomi']",1,0,positif,aplikasi shopee baru playstore crash update baru clear cache restart aplikasi reinstal aplikasi restart tambah memory internal crash tolong baik aplikasi shopee respon cepet instal shopee versi update stabil getapps xiomi
+333,"['mantul', 'aplikasinya', 'burikk']",5,0,positif,mantul aplikasi burikk
+334,"['yoqimli', 'xarid', 'qilish']",5,0,positif,yoqimli xarid qilish
+335,['burukk'],1,0,positif,burukk
+336,"['anjj', 'bayar', 'pakai', 'transfer', 'minim', 'tidak ada', 'blokkkk']",1,-13,negatif,anjj bayar pakai transfer minim tidak ada blokkkk
+337,[],4,0,positif,
+338,"['shopee', 'main', 'shopee', 'cocoki', 'level', 'susah', 'banget', 'login', 'akun']",2,-20,negatif,shopee main shopee cocok level susah banget login akun
+339,[],5,0,positif,
+340,"['pelayanan', 'bagus', 'bnyak', 'vocer', 'potongan', 'harga']",5,12,positif,layan bagus bnyak vocer potong harga
+341,"['membantu', 'terima', 'kasih']",5,7,positif,bantu terima kasih
+342,"['bawak', 'mobil']",3,1,positif,bawak mobil
+343,"['beli', 'barang', 'paket', 'diantar', 'dibatalkan', 'tunggu']",1,-8,negatif,beli barang paket antar batal tunggu
+344,['banget'],5,1,positif,banget
+345,"['shopeepay', 'pakai', 'saldo', 'cuman', 'diamkan', 'rugi']",1,-20,negatif,shopeepay pakai saldo cuman diam rugi
+346,[],5,0,positif,
+347,['lumayan'],5,-1,negatif,lumayan
+348,"['belanja', 'mudah', 'mubah', 'belibeli', 'taksusah', 'tinnggal', 'selesai']",5,1,positif,belanja mudah mubah bibel taksusah tinnggal selesai
+349,"['aplikasinya', 'bagus']",5,8,positif,aplikasi bagus
+350,"['baimauditio', 'bkugbt', 'caayuki', 'yvrpv']",5,0,positif,baimauditio bkugbt caayuki yvrpv
+351,"['masyalloh', 'bayar', 'pakai', 'shoope', 'diskonya', 'beli', 'beli', 'bayar']",5,-5,negatif,masyalloh bayar pakai shoope disko beli beli bayar
+352,"['belanja', 'berkali', 'lapak', 'bagus', 'amanah']",5,17,positif,belanja kali lapak bagus amanah
+353,"['bagus', 'shopee', 'bikin', 'kecewa']",4,8,positif,bagus shopee bikin kecewa
+354,[],5,0,positif,
+355,"['goblok', 'anjinkanjing', 'setan', 'shopper']",1,-9,negatif,goblok anjinkanjing setan shopper
+356,"['barangy', 'poto']",5,3,positif,barangy poto
+357,"['membantu', 'sukses']",5,7,positif,bantu sukses
+358,"['keren', 'belanja', 'dsini', 'kcewa']",5,7,positif,keren belanja dsini kcewa
+359,"['shopee', 'terbaik']",5,5,positif,shopee baik
+360,"['bljar', 'jual', 'beli', 'mntaplah']",2,0,positif,bljar jual beli mntaplah
+361,"['diakon', 'pengguna', 'murah', 'barangnya', 'bagus', 'berkualitas']",5,16,positif,diakon guna murah barang bagus kualitas
+362,['bagus'],4,8,positif,bagus
+363,['membantu'],5,4,positif,bantu
+364,"['shopee', 'express', 'gajelas', 'barang', 'pesan', 'barang', 'untungnya', 'uang', 'dipotong', 'biaya', 'admin', 'rupiah', 'shopee', 'maaf', 'hubungan', 'pindah', 'tokped', 'aman']",2,-30,negatif,shopee express gajelas barang pesan barang untung uang potong biaya admin rupiah shopee maaf hubung pindah tokped aman
+365,[],5,2,positif,
+366,"['produk', 'vape', 'hapus', 'alasannya', 'android', 'tokopedi', 'nyaman', 'enak', 'pakai', 'tokopedia', 'kawan', 'vape', 'install', 'aplikasi']",1,-7,negatif,produk vape hapus alas android tokopedi nyaman enak pakai tokopedia kawan vape install aplikasi
+367,['bagus'],5,8,positif,bagus
+368,"['erorr', 'berfungsi', 'muterrrrr', 'terussss', 'banget', 'muternya']",1,-3,negatif,erorr fungsi muterrrrr terussss banget muternya
+369,"['pengiriman', 'barang', 'pwngemnalian', 'barang']",5,-5,negatif,kirim barang pwngemnalian barang
+370,"['hapus', 'chace', 'sampe', 'instal', 'unistal', 'lemot', 'aplikasi', 'berat', 'dikit', 'update']",1,-22,negatif,hapus chace sampe instal unistal lot aplikasi berat dikit update
+371,"['gratis', 'ongkir', 'giliran', 'ganti', 'mode', 'pembayaran', 'gratis', 'orang', 'silver']",1,5,positif,gratis ongkir gilir ganti mode bayar gratis orang silver
+372,"['kurirnya', 'tlol', 'tolol', 'cari', 'alamat', 'kagak', 'telat', 'salah', 'balikin', 'barangnya', 'biar', 'mampus']",1,-27,negatif,kurir tlol tolol cari alamat kagak telat salah balikin barang biar mampus
+373,['bagud'],5,0,positif,bagud
+374,"['suka', 'aplikasi']",5,-7,negatif,suka aplikasi
+375,"['aman', 'terpercaya']",5,0,positif,aman percaya
+376,"['barang', 'cepat', 'pengirimannya', 'bagus']",5,14,positif,barang cepat kirim bagus
+377,['bagus'],5,8,positif,bagus
+378,['good'],5,5,positif,good
+379,"['pembayaran', 'anying']",5,0,positif,bayar anying
+380,[],3,0,positif,
+381,['okay'],5,4,positif,okay
+382,"['pesan', 'dowlod', 'blokir', 'nyesel', 'pesen', 'buang']",1,-12,negatif,pesan dowlod blokir nyesel sen buang
+383,"['terima kasih', 'shopee', 'gercep', 'nanganin', 'sistem', 'kmrin', 'blank', 'bagus', 'kmrin', 'terima kasih', 'dnger', 'keluhan', 'cust', 'sekebon', 'shopee', 'sukses']",5,14,positif,terima kasih shopee gercep nanganin sistem kmrin blank bagus kmrin terima kasih dnger keluh cust kebon shopee sukses
+384,[],5,0,positif,
+385,"['tolong', 'betulkan', 'aplikasinya', 'aplikasinya', 'eror']",3,-3,negatif,tolong betul aplikasi aplikasi eror
+386,"['kasihan', 'toko', 'deengan', 'kebijakan', 'babru', 'shopee', 'paket', 'kirim', 'berat', 'kasusnya', 'minimal', 'besoknya', 'mempersiapkannya']",1,-4,negatif,kasihan toko deengan bijak babru shopee paket kirim berat kasus minimal besok siap
+387,"['mengutamakan', 'pelanggan', 'terima kasih', 'shoppe']",5,8,positif,utama langgan terima kasih shoppe
+388,"['mantafff', 'disc']",5,0,positif,mantafff disc
+389,"['shopee', 'seru', 'semenjak', 'voucher', 'diskon', 'batasi', 'fashion', 'skincare', 'makanan', 'kebersihan', 'popok', 'tolong', 'ubah', 'vocer', 'bebas', 'belanja']",2,-4,negatif,shopee seru semenjak voucher diskon batas fashion skincare makan bersih popok tolong ubah vocer bebas belanja
+390,"['kesini', 'shopee', 'buruk', 'nonton', 'shopee', 'live', 'shopee', 'video', 'macet', 'pencarian', 'barang', 'menit', 'macet', 'tolong', 'programmernya', 'diperbaiki', 'appnya', 'sekelas', 'shopee', 'internasional', 'masak', 'appnya', 'buruk', 'ringan', 'mudah', 'diakses', 'nggak', 'berat', 'handphone']",1,-19,negatif,kesini shopee buruk nonton shopee live shopee video macet cari barang menit macet tolong programmernya baik appnya kelas shopee internasional masak appnya buruk ringan mudah akses nggak berat handphone
+391,"['belanja', 'online', 'shopee']",5,7,positif,belanja online shopee
+392,['mantap'],5,8,positif,mantap
+393,['memuaskan'],5,8,positif,muas
+394,['mantap'],5,8,positif,mantap
+395,"['kenapaa', 'shopee', 'shopeevideo', 'diskon', 'turun', 'banget']",3,1,positif,kenapaa shopee shopeevideo diskon turun banget
+396,"['bagus', 'cuman', 'sayang', 'dkasih', 'sophe']",3,8,positif,bagus cuman sayang dkasih sophe
+397,[],5,-6,negatif,
+398,"['membantu', 'suka', 'belanja', 'ribet', 'kesana', 'kesini', 'pilihan', 'produk', 'toko', 'harga', 'terjangkau', 'kadang', 'berat', 'ongkir', 'tinggal', 'pelosok', 'terimakasihh', 'shoopee', 'mempermudah', 'berbelanja']",5,4,positif,bantu suka belanja ribet kesana kesini pilih produk toko harga jangkau kadang berat ongkir tinggal pelosok terimakasihh shoopee mudah belanja
+399,"['bahaya', 'buka', 'aplikasi', 'shopee', 'hati', 'hati', 'buka', 'buka', 'aplikasi', 'langsung', 'masuk', 'menu', 'live', 'suara', 'teriak', 'teriak', 'jual', 'live', 'langsung', 'terdengar', 'seantero', 'ruangan', 'parahnya', 'teriak', 'teriak', 'penjual', 'livenya', 'ketemu', 'bahasa', 'dengar', 'nggak', 'terdengar', 'buka', 'shopee', 'atur', 'volume', 'repot', 'nggak']",1,-63,negatif,bahaya buka aplikasi shopee hati hati buka buka aplikasi langsung masuk menu live suara teriak teriak jual live langsung dengar antero ruang parah teriak teriak jual livenya ketemu bahasa dengar nggak dengar buka shopee atur volume repot nggak
+400,['bagus'],4,8,positif,bagus
+401,[],5,0,positif,
+402,"['menurutku', 'shopee', 'bagus', 'pengirimannya', 'cepet', 'pengen', 'voucher', 'tolong', 'voucher', 'tolong', 'kasih', 'update', 'pakai', 'voucher', 'bayarannya', 'ngelag', 'pencet', 'makasii']",3,3,positif,turut shopee bagus kirim cepet ken voucher tolong voucher tolong kasih update pakai voucher bayar ngelag pencet makasii
+403,"['chekout', 'kemarin']",5,0,positif,chekout kemarin
+404,['mantap'],4,8,positif,mantap
+405,"['spay', 'masuk', 'transaksi', 'berhasil']",2,-1,negatif,spay masuk transaksi hasil
+406,"['cepat', 'prosesnya']",1,6,positif,cepat proses
+407,"['barang', 'kembalikan', 'duit', 'masuk', 'rekening', 'penjual', 'memutuskan', 'menerima', 'uang', 'musibah']",1,-6,negatif,barang kembali duit masuk rekening jual putus terima uang musibah
+408,[],3,2,positif,
+409,"['belanja', 'gampang']",5,6,positif,belanja gampang
+410,"['pngiriman', 'barang', 'nyampe', 'pesan', 'sampe', 'nyampe']",2,-6,negatif,pngiriman barang nyampe pesan sampe nyampe
+411,"['memuaskan', 'semoga', 'sukses', 'aamiin', 'robbal', 'aalaamiin']",5,16,positif,muas moga sukses aamiin robbal aalaamiin
+412,[],5,0,positif,
+413,"['aplikasi', 'shopping', 'terbaik']",5,5,positif,aplikasi shopping baik
+414,['markotop'],4,0,positif,markotop
+415,['mantap'],5,8,positif,mantap
+416,['terbaik'],5,5,positif,baik
+417,"['buka', 'tautan', 'shopee', 'mentok', 'sampe', 'home', 'page']",3,-7,negatif,buka taut shopee mentok sampe home page
+418,"['hati', 'hati', 'didalam', 'aplikasi', 'mengandung', 'permainan', 'contoh', 'permainan', 'penjual', 'jasa', 'pengirim', 'shopee', 'uangmu', 'terjebak', 'shopeepay', 'proses', 'pengiriman', 'dana', 'menarik', 'dana', 'dikenakan', 'admin', 'permainan', 'unsur', 'beli', 'barang', 'kena', 'admin', 'narik', 'kena', 'admin', 'biaya', 'penanganan', 'kaya', 'shopee']",1,-39,negatif,hati hati dalam aplikasi kandung main contoh main jual jasa kirim shopee uang jebak shopeepay proses kirim dana tarik dana kena admin main unsur beli barang kena admin narik kena admin biaya tangan kaya shopee
+419,"['pengaturan', 'pembayaran', 'shoppe', 'affiliate', 'tolak', 'ribet', 'komisi', 'tarik', 'tiktok', 'tarik', 'komisi', 'mudah', 'ribet', 'susah', 'affiliate', 'ambil', 'komisi']",1,-12,negatif,atur bayar shoppe affiliate tolak ribet komisi tarik tiktok tarik komisi mudah ribet susah affiliate ambil komisi
+420,"['ongkir', 'terbatas', 'cuman', 'saran', 'iklan']",4,-5,negatif,ongkir batas cuman saran iklan
+421,['puas'],5,3,positif,puas
+422,"['kaga', 'gunain', 'paylater']",1,0,positif,kaga gunain paylater
+423,['jangantapil'],1,0,positif,jangantapil
+424,['good'],5,5,positif,good
+425,"['kebijakaan', 'merugikan', 'pembeli', 'pengelolan', 'buruk', 'pelayanan']",1,-16,negatif,kebijakaan rugi beli pengelolan buruk layan
+426,"['tolong', 'kominfo', 'menghapus', 'aplikasi', 'pinjol', 'aplikasi', 'pinjol', 'aplikasi', 'mencekek', 'masarakat', 'iming', 'pinjaman', 'mura', 'teryata', 'mencekek', 'bunga', 'menegerikan', 'pemerinta', 'kominfo', 'merilis', 'aplikasi', 'linta', 'darat', 'aplikais', 'pinjol', 'tolong', 'hapus', 'stop', 'semoga', 'prabowo', 'menutup', 'aplikasi', 'pinjol', 'secepat']",1,-40,negatif,tolong kominfo hapus aplikasi pinjol aplikasi pinjol aplikasi cekek masarakat iming pinjam mura teryata cekek bunga negeri pemerinta kominfo rilis aplikasi linta darat aplikais pinjol tolong hapus stop moga prabowo tutup aplikasi pinjol cepat
+427,"['iklan', 'ganggu', 'mulu', 'youtube']",5,-5,negatif,iklan ganggu mulu youtube
+428,"['best', 'pengguna', 'setiaku']",5,3,positif,best guna setia
+429,"['murah', 'kualitas']",5,10,positif,murah kualitas
+430,['debes'],3,0,positif,debes
+431,"['kena', 'tipu', 'belanja', 'pakai', 'later', 'barang', 'dateng', 'bayar', 'cicilan', 'toko', 'shopee', 'diblokir', 'komplen', 'tokonya', 'alamat', 'toko', 'dikasih', 'cicilan', 'sampe', 'ngasih', 'vocer', 'bantu', 'hubungin', 'penjual', 'bilang', 'respon', 'iyah', 'karyawan', 'nyari', 'orang', 'nipu', 'toko', 'dftr', 'alamat', 'apalah', 'males', 'belanja', 'bayar', 'angin']",1,-27,negatif,kena tipu belanja pakai later barang dateng bayar cicil toko shopee blokir komplen toko alamat toko kasih cicil sampe ngasih vocer bantu hubungin jual bilang respon iyah karyawan nyari orang nipu toko dftr alamat apa males belanja bayar angin
+432,"['mmbntu', 'ktika', 'daeurat']",5,0,positif,mmbntu ktika daeurat
+433,"['fitur', 'bagus']",5,8,positif,fitur bagus
+434,"['aplikasi', 'super', 'lemot', 'belanja', 'emosi']",1,-6,negatif,aplikasi super lot belanja emosi
+435,"['mantap', 'pokonya']",5,6,positif,mantap poko
+436,"['pengaktifan', 'shopee', 'paylater', 'tolak', 'langganan', 'shope', 'kecewa', 'shopee']",1,-4,negatif,aktif shopee paylater tolak langgan shope kecewa shopee
+437,"['permudah', 'belanja', 'pelayanan', 'shopee', 'sukses']",5,10,positif,mudah belanja layan shopee sukses
+438,"['login', 'akun']",1,-5,negatif,login akun
+439,"['membantu', 'kehidupan', 'sehari']",5,4,positif,bantu hidup hari
+440,"['shopee', 'bodh', 'aplikasi', 'lemot', 'susah', 'belanja', 'hapus', 'aplikasi', 'berguna', 'apalah', 'shopee', 'lemot', 'banget', 'sinyal', 'bagusss', 'aplikasi', 'kaya', 'gini', 'jelek', 'bangett', 'kaya', 'bikin']",2,-36,negatif,shopee bodh aplikasi lot susah belanja hapus aplikasi guna apa shopee lot banget sinyal bagusss aplikasi kaya gin jelek bangett kaya bikin
+441,['kren'],5,0,positif,kren
+442,['bagus'],5,10,positif,bagus
+443,[],5,-3,negatif,
+444,"['limid', 'shopepaylater', 'hilang', 'sisa', 'kemajuan', 'limidnya', 'bayar', 'bertahun', 'pakai', 'shopey', 'kecewa', 'dngn', 'aplikasinya']",1,-11,negatif,limid shopepaylater hilang sisa maju limidnya bayar tahun pakai shopey kecewa dngn aplikasi
+445,"['shopee', 'kebijakan', 'perhatikan', 'toko', 'jualan', 'shopee', 'pdhl', 'enak', 'beli', 'shopee']",2,4,positif,shopee bijak perhati toko jual shopee pdhl enak beli shopee
+446,['emboh'],5,0,positif,emboh
+447,['puas'],5,3,positif,puas
+448,"['gede', 'pelayanan', 'overall', 'bagus']",1,15,positif,gede layan overall bagus
+449,['bagus'],5,8,positif,bagus
+450,"['paylater', 'susah', 'netralkan', 'semenjak', 'nekukan']",1,-3,negatif,paylater susah netral semenjak nekukan
+451,"['kecewa', 'sumpah', 'knpa', 'spaylater', 'gara', 'telat', 'byar', 'msih', 'blum', 'buka', 'nunggu', 'perubahan', 'mending', 'hpus', 'sophee', 'berguna']",1,-7,negatif,kecewa sumpah knpa spaylater gara telat byar msih blum buka nunggu ubah mending hpus sophee guna
+452,['mantap'],5,8,positif,mantap
+453,"['mantap', 'membantu']",5,12,positif,mantap bantu
+454,"['toko', 'toko', 'negri', 'blokir', 'males', 'belanja', 'cinta', 'produk', 'indo', 'toko', 'diblokir', 'systemnya', 'asik', 'gajelas', 'aplikasi', 'eror', 'eror']",1,-11,negatif,toko toko negri blokir males belanja cinta produk indo toko blokir systemnya asik gajelas aplikasi eror eror
+455,"['shope', 'asuh', 'susun', 'alamat', 'ngulang', 'tolong', 'betulin', 'maunya', 'capek']",1,-6,negatif,shope asuh susun alamat ngulang tolong betulin mau capek
+456,"['shoopee', 'best', 'thank']",5,6,positif,shoopee best thank
+457,"['shopee', 'mantap']",5,8,positif,shopee mantap
+458,"['jual', 'barang', 'seharga', 'narik', 'saldo', 'shope', 'narik', 'woiiiii', 'yakali', 'kepotong', 'admin', 'sampe', 'lahhhjjjgggghhh']",2,-12,negatif,jual barang harga narik saldo shope narik woiiiii yakali potong admin sampe lahhhjjjgggghhh
+459,"['shopee', 'kesini', 'lemot']",1,-1,negatif,shopee kesini lot
+460,"['shope', 'error', 'tolong', 'developer', 'perbaiki', 'blng', 'periksa', 'jaringan']",1,-13,negatif,shope error tolong developer baik blng periksa jaring
+461,"['barang', 'aman']",5,0,positif,barang aman
+462,"['maaf', 'hapos', 'kuat', 'ngebug', 'teros', 'suport', 'maaf']",5,-2,negatif,maaf hapos kuat ngebug ros suport maaf
+463,"['bayar', 'payletter', 'listrik', 'bpjs', 'ngebleng', 'susah']",2,-5,negatif,bayar payletter listrik bpjs ngebleng susah
+464,"['blanja', 'shope', 'memuaskan']",5,8,positif,blanja shope muas
+465,"['jelekkkkk', 'ngelegggggg', 'parahhhhh', 'beratttt', 'bangkeeee', 'puki', 'shopeeepukiiiiiiiiiiiiii', 'jelekkkk', 'mending', 'lazada', 'mahh', 'oren', 'jelekkk', 'parahhh', 'bangsadddddd']",1,-13,negatif,jelekkkkk ngelegggggg parahhhhh beratttt bangkeeee puki shopeeepukiiiiiiiiiiiiii jelekkkk mending lazada mahh oren jelekkk parahhh bangsadddddd
+466,"['aplikasi', 'belanja', 'bermanfaat', 'bravo', 'shopee']",5,-1,negatif,aplikasi belanja manfaat bravo shopee
+467,"['best', 'pokoknya']",5,-1,negatif,best pokok
+468,"['lope', 'sekebon', 'shopee']",5,1,positif,lope kebon shopee
+469,['berguna'],5,1,positif,guna
+470,"['membantu', 'penggunaan', 'belanja']",5,11,positif,bantu guna belanja
+471,"['order', 'food', 'doble', 'order', 'parahhh', 'nunggu', 'jelek', 'bangettttt']",1,-9,negatif,order food doble order parahhh nunggu jelek bangettttt
+472,['bagus'],5,8,positif,bagus
+473,"['telat', 'spaylater', 'berasa', 'telat', 'spam', 'telepon', 'pagi', 'malem', 'pengalaman', 'buruk', 'bentar', 'lunas', 'unistal', 'aplikasi', 'langganan', 'thank', 'shopiee', 'tindakan', 'ambil', 'mengecewakan']",1,-30,negatif,telat spaylater asa telat spam telepon pagi malem alam buruk bentar lunas unistal aplikasi langgan thank shopiee tindak ambil kecewa
+474,"['spayletter', 'beli', 'token', 'listrik', 'pulsa', 'paket', 'data']",5,-2,negatif,spayletter beli token listrik pulsa paket data
+475,"['pelayanan', 'memuaskan']",5,6,positif,layan muas
+476,['goooodddddddddd'],5,0,positif,goooodddddddddd
+477,['mantap'],4,8,positif,mantap
+478,"['enak', 'belanja', 'shopee', 'lemotnya', 'bikin', 'jengkel', 'perbaiki', 'shoope', 'servernya', 'bosen']",4,-14,negatif,enak belanja shopee lot bikin jengkel baik shoope servernya bosen
+479,"['kasih', 'bintang', 'pengguna', 'shopee', 'tetangga', 'pinjam', 'akun', 'beli', 'barang', 'kesalahan', 'speknya', 'paketnya', 'buka', 'kembalikan', 'mohon']",5,-28,negatif,kasih bintang guna shopee tetangga pinjam akun beli barang salah speknya paket buka kembali mohon
+480,['lemot'],1,-5,negatif,lot
+481,['mantap'],5,8,positif,mantap
+482,['okey'],5,0,positif,okey
+483,"['belanja', 'happy', 'diskonya', 'harga', 'murah', 'pengiriman', 'cepat']",5,18,positif,belanja happy disko harga murah kirim cepat
+484,"['ngefris', 'mulu', 'live', 'delay', 'ngelive', 'aplikasi']",1,-14,negatif,ngefris mulu live delay ngelive aplikasi
+485,['jelek'],1,-5,negatif,jelek
+486,"['aplikasi', 'bagus', 'tolong', 'tertib', 'pedagangnya', 'amanah', 'kali', 'beli', 'barang', 'sesuai', 'diskripsi', 'bilang', 'buruk', 'tolong', 'team', 'shoppe', 'fillter', 'pelapak', 'rating', 'buruk', 'langsung', 'baned', 'biar', 'konsumen', 'nyaman', 'belanja']",5,-6,negatif,aplikasi bagus tolong tertib dagang amanah kali beli barang sesuai skripsi bilang buruk tolong team shoppe fillter lapak rating buruk langsung baned biar konsumen nyaman belanja
+487,"['toko', 'penipu', 'shopee', 'shopee', 'berjanji', 'menggantikan', 'kerugian', 'voucher', 'belanja', 'janji', 'janji', 'cape', 'nunggu', 'bintang', 'hapus', 'ganti', 'kerugian']",1,-30,negatif,toko tipu shopee shopee janji ganti rugi voucher belanja janji janji cape nunggu bintang hapus ganti rugi
+488,['nyampe'],1,-4,negatif,nyampe
+489,"['puas', 'aplikasi', 'shopee', 'memudahkan', 'berbelanja', 'barang', 'apapun']",5,4,positif,puas aplikasi shopee mudah belanja barang apa
+490,"['bagus', 'belanja', 'sepatu', 'sandal', 'shopee']",4,15,positif,bagus belanja sepatu sandal shopee
+491,['bagus'],5,8,positif,bagus
+492,"['iklan', 'ganggu']",1,-4,negatif,iklan ganggu
+493,['jujur'],4,3,positif,jujur
+494,"['mantap', 'shoppe', 'melapor', 'toko', 'penipuan', 'langsung', 'tinjau', 'terima', 'kasih']",5,6,positif,mantap shoppe lapor toko tipu langsung tinjau terima kasih
+495,"['suka', 'shopee']",5,-1,negatif,suka shopee
+496,"['bagus', 'banget', 'aplikasinya', 'terima kasih', 'shopee']",5,13,positif,bagus banget aplikasi terima kasih shopee
+497,"['kacau', 'kurirnya', 'telepon', 'kerumah', 'ngantar', 'barang', 'pesanan', 'status', 'barang', 'gagal', 'dikirim', 'hubungi', 'nungguin', 'kurir', 'seharian']",1,-31,negatif,kacau kurir telepon rumah ngantar barang pesan status barang gagal kirim hubung nungguin kurir hari
+498,"['bagus', 'suka', 'bonusnya']",5,7,positif,bagus suka bonus
+499,"['good', 'shopee']",5,5,positif,good shopee
+500,"['bagus', 'membantu', 'banget']",5,13,positif,bagus bantu banget
+501,['update'],5,0,positif,update
+502,['bagussss'],4,0,positif,bagussss
+503,"['aplikasi', 'sngt', 'mebantu']",5,-4,negatif,aplikasi sngt mebantu
+504,"['lemot', 'yaaaa']",3,-1,negatif,lot yaaaa
+505,"['bgst', 'aturan', 'kembalikan', 'merugikan', 'seller']",1,-3,negatif,bgst atur kembali rugi seller
+506,['lumayan'],5,-1,negatif,lumayan
+507,['membantu'],4,-1,negatif,bantu
+508,['niceeeeeee'],5,0,positif,niceeeeeee
+509,"['tarik', 'mengunakan']",1,2,positif,tarik mengunakan
+510,"['skrang', 'layanan', 'ongkir', 'mahal', 'banding', 'shopy', 'tingkat', 'lemot', 'lelet', 'ngejim']",4,-4,negatif,skrang layan ongkir mahal banding shopy tingkat lot lelet ngejim
+511,"['saran', 'spaylater', 'mengharapkan', 'kedepannya', 'fitur', 'pilihan', 'pembayaran', 'produk', 'lunasi', 'cicilanya', 'pembayaran', 'shopee', 'pelanggan', 'menguntungkan', 'belah', 'efisien']",5,-7,negatif,saran spaylater harap depan fitur pilih bayar produk lunas cicilanya bayar shopee langgan untung belah efisien
+512,"['alhamdulillah', 'koin']",5,5,positif,alhamdulillah koin
+513,['goood'],4,0,positif,goood
+514,[],5,0,positif,
+515,"['bagus', 'mengkewakan']",5,2,positif,bagus wak
+516,['mantap'],5,8,positif,mantap
+517,"['minn', 'fitur', 'nelponnlahh']",4,1,positif,minn fitur nelponnlahh
+518,"['barang', 'jual', 'sesuai']",5,-1,negatif,barang jual sesuai
+519,['membantu'],5,4,positif,bantu
+520,['bagus'],5,5,positif,bagus
+521,['suka'],5,2,positif,suka
+522,['realistis'],5,4,positif,realistis
+523,"['pelayana', 'memuaskan']",5,8,positif,pelayana muas
+524,"['aplikasinya', 'bagus']",3,8,positif,aplikasi bagus
+525,"['amanah', 'cepet', 'pengiriman']",5,2,positif,amanah cepet kirim
+526,"['barang', 'berulang', 'kali', 'nyatakan', 'hilang', 'menunggu', 'transaksi', 'menunggu', 'sebulan', 'zonnnnk']",1,-7,negatif,barang ulang kali nyata hilang tunggu transaksi tunggu bulan zonnnnk
+527,"['garansi', 'paket', 'molor', 'minggu', 'keterangan', 'perjalanan', 'paket', 'pengembalian', 'dana', 'bner']",1,10,positif,garansi paket molor minggu terang jalan paket kembali dana bner
+528,"['shopee', 'pets', 'game', 'cook', 'king', 'berubah', 'sulit', 'tolong', 'diperbaiki', 'please']",3,2,positif,shopee pets game cook king ubah sulit tolong baik please
+529,"['dasar', 'pencuri', 'april', 'tranfer', 'uang', 'shopee', 'proses', 'mulu', 'transfer', 'giliran', 'nunggu', 'april', 'hilang', 'riwayat', 'transfer', 'shopeenya', 'hadeh', 'balikin', 'maling']",2,-7,negatif,dasar curi april tranfer uang shopee proses mulu transfer gilir nunggu april hilang riwayat transfer shopeenya hadeh balikin maling
+530,"['suka', 'belanja', 'shopee', 'barang', 'original', 'pengiriman', 'cepat', 'puas', 'puas', 'puas', 'puas', 'terima kasih', 'shopee', 'banget', 'banget', 'banget', 'suka', 'puas', 'belanja', 'shopee', 'saran', 'shopee', 'mengubah', 'limit', 'paylater', 'sesuai', 'pemakai', 'akun', 'menurunkan', 'menaikan', 'limit']",5,28,positif,suka belanja shopee barang original kirim cepat puas puas puas puas terima kasih shopee banget banget banget suka puas belanja shopee saran shopee ubah limit paylater sesuai pakai akun turun naik limit
+531,"['membantu', 'belanja', 'harga', 'terjangkau']",4,9,positif,bantu belanja harga jangkau
+532,"['download', 'belanja', 'please', 'iklannya', 'ngak', 'ganggu', 'sumpah']",1,-14,negatif,download belanja please iklan ngak ganggu sumpah
+533,[],5,0,positif,
+534,[],5,0,positif,
+535,['bintang'],2,-3,negatif,bintang
+536,[],5,1,positif,
+537,[],5,0,positif,
+538,"['bagus', 'membantu', 'butuh']",5,7,positif,bagus bantu butuh
+539,"['belanja', 'mudah', 'murah']",5,11,positif,belanja mudah murah
+540,"['ruang', 'khusus', 'kategori', 'produk', 'orang', 'dewasa', 'filter', 'batasan', 'umur', 'terkadang', 'kesulitan', 'mencari', 'produk', 'khusus', 'dewasa', 'batasan', 'filter', 'sensor', 'nama', 'produk', 'dianggap', 'vulgar', 'alat', 'kontrasepsi', 'obat', 'kuat', 'mainan', 'khusus', 'dewasa']",4,-6,negatif,ruang khusus kategori produk orang dewasa filter batas umur terkadang sulit cari produk khusus dewasa batas filter sensor nama produk anggap vulgar alat kontrasepsi obat kuat main khusus dewasa
+541,['aman'],5,0,positif,aman
+542,['mantap'],5,8,positif,mantap
+543,['baguss'],5,0,positif,baguss
+544,"['memenuhi', 'kebutuhan']",5,1,positif,penuh butuh
+545,"['tolong', 'opsi', 'pengiriman', 'shopee', 'pliss', 'pengiriman', 'jawa', 'harian', 'nyebrang', 'pulau', 'hadehhhhhhhh']",1,-22,negatif,tolong opsi kirim shopee pliss kirim jawa hari nyebrang pulau hadehhhhhhhh
+546,"['shopee', 'dech', 'pokoknya', 'biar', 'bintang', 'kasih', 'penilaian']",5,-4,negatif,shopee dech pokok biar bintang kasih nilai
+547,"['bagus', 'banget', 'belanja', 'shopee', 'murah']",5,18,positif,bagus banget belanja shopee murah
+548,"['shopee', 'aplikasi', 'terbaik']",5,1,positif,shopee aplikasi baik
+549,"['ongkir', 'murah', 'keren', 'datangnya']",5,4,positif,ongkir murah keren datang
+550,['burik'],1,3,positif,burik
+551,"['belanja', 'murah', 'ribet']",5,5,positif,belanja murah ribet
+552,['bgeeeet'],5,0,positif,bgeeeet
+553,['good'],5,5,positif,good
+554,"['shopee', 'gabisa', 'masuk', 'klil', 'gamasuk', 'kaya', 'ngeblank', 'kedip', 'kedip', 'layarnya', 'instal', 'kali']",2,-9,negatif,shopee gabisa masuk klil gamasuk kaya ngeblank kedip kedip layar instal kali
+555,"['bintang', 'maaf', 'bintang', 'spaylater', 'nonaktifkan', 'tunggakan', 'angsuran', 'lunas', 'shopee']",2,-8,negatif,bintang maaf bintang spaylater nonaktif tunggak angsur lunas shopee
+556,"['jasa', 'kirimnya', 'bertanggung', 'profesional', 'kali', 'paket', 'telat', 'berpotensi', 'hilang', 'pakai', 'jasa', 'choki']",3,2,positif,jasa kirim tanggung profesional kali paket telat potensi hilang pakai jasa choki
+557,['mantap'],5,8,positif,mantap
+558,['memuaskan'],5,8,positif,muas
+559,"['bayar', 'ikan', 'susah', 'masuk', 'toko']",4,-11,negatif,bayar ikan susah masuk toko
+560,"['coba', 'spaylater', 'dibatasi', 'pembelian', 'pulsa', 'kuota', 'butuh', 'banget', 'coba', 'bayangin', 'darurat', 'spaylater', 'dipakai', 'pulsa', 'kuota']",2,-23,negatif,coba spaylater batas beli pulsa kuota butuh banget coba bayangin darurat spaylater pakai pulsa kuota
+561,"['bagus', 'voucher', 'gabungin', 'bank', 'repot']",3,3,positif,bagus voucher gabungin bank repot
+562,"['ongkirnya', 'kemahalan']",2,0,positif,ongkirnya mahal
+563,"['berlangganan', 'uninstall', 'iklannya', 'mengikuti', 'website', 'masuki', 'ketiga', 'terganggu']",2,-22,negatif,langgan uninstall iklan ikut website masuk tiga ganggu
+564,"['jijik', 'prah']",1,-5,negatif,jijik prah
+565,"['gajelas', 'anjengg']",1,0,positif,gajelas anjengg
+566,"['mantab', 'aplikasiny']",5,2,positif,mantab aplikasiny
+567,"['pelayanan', 'buruk', 'dana', 'dikirm', 'barang', 'berbeda', 'beda', 'sesuai', 'diharapkan', 'itikad', 'mengembalikan', 'dana', 'tombol', 'ajuan', 'pengembalian', 'diaktifkan', 'estimasi', 'berubah', 'ubah', 'pemberitahuan']",1,-6,negatif,layan buruk dana dikirm barang beda beda sesuai harap itikad kembali dana tombol aju kembali aktif estimasi ubah ubah pemberitahuan
+568,"['memudahkan', 'pencarian', 'pembelian', 'barang', 'barang', 'dibutuhkan', 'saran', 'durasi', 'umboxing', 'ditambah', 'kapasitas', 'nyusain', 'kompressnya', 'toko', 'dikomplain', 'deskripsi', 'barang', 'sesuai', 'pembeli', 'kesempatan', 'membuka', 'barang', 'kurir', 'unboxing', 'sesuai', 'jual', 'beli', 'batal', 'proses', 'pengajuan', 'pengembalian', 'barang', 'dana', 'dibayar', 'shopepay']",5,-5,negatif,mudah cari beli barang barang butuh saran durasi umboxing tambah kapasitas nyusain kompressnya toko komplain deskripsi barang sesuai beli sempat buka barang kurir unboxing sesuai jual beli batal proses aju kembali barang dana bayar shopepay
+569,['mantap'],5,8,positif,mantap
+570,"['pokok', 'apik', 'pesen', 'barang', 'shopee', 'durung', 'mugi', 'kecewa']",5,0,positif,pokok apik sen barang shopee durung mugi kecewa
+571,"['membantu', 'mempermudah', 'belanja', 'apapun', 'rumah', 'repot', 'momong', 'anak', 'terima kasih', 'shopee', 'sukses']",5,-4,negatif,bantu mudah belanja apa rumah repot momong anak terima kasih shopee sukses
+572,"['parah', 'aplikasi']",1,-9,negatif,parah aplikasi
+573,"['suka', 'aplikasi', 'shopie', 'harga', 'murah', 'diskonnya', 'barangnya', 'perna', 'mengecewakan', 'pokoknya', 'bagus']",5,8,positif,suka aplikasi shopie harga murah diskon barang perna kecewa pokok bagus
+574,"['aplikasi', 'shopee', 'skarang', 'eror', 'rada', 'aneh', 'fitur', 'keranjangnya', 'ilangin', 'berguna', 'banget', 'biar', 'mudah', 'nyari', 'pesenan', 'emang', 'keranjangin', 'check', 'pengguna', 'shopee', 'shopee', 'banget']",1,-12,negatif,aplikasi shopee skarang eror rada aneh fitur keranjang ilangin guna banget biar mudah nyari sen emang keranjangin check guna shopee shopee banget
+575,"['buka', 'shoppe', 'nggk', 'chekout', 'lohh', 'emng', 'shoppe', 'malesi', 'diupdate', 'erorr']",1,-4,negatif,buka shoppe nggk chekout lohh emng shoppe malesi diupdate erorr
+576,"['mohon', 'maaf', 'berii', 'ulasan', 'minggu', 'pemesanan', 'shope', 'batalin', 'alhasil', 'akun', 'batasi', 'shope', 'ajuin', 'banding', 'proses', 'harap', 'fiturnya', 'benerin', 'dikit', 'dikit', 'akun', 'batasi', 'kesalahan', 'sistemnya']",4,-23,negatif,mohon maaf beri ulas minggu mesan shope batalin alhasil akun batas shope ajuin banding proses harap fiturnya benerin dikit dikit akun batas salah sistem
+577,"['bagus', 'barang', 'bagusssssssssssss']",5,8,positif,bagus barang bagusssssssssssss
+578,"['xxxii', 'xxxii', 'xxxii', 'zsqa']",1,0,positif,xxxii xxxii xxxii zsqa
+579,['puas'],5,3,positif,puas
+580,[],5,0,positif,
+581,"['layanan', 'layanan', 'spinjam', 'susah', 'accnya', 'doangwangwangwang']",2,-1,negatif,layan layan spinjam susah accnya doangwangwangwang
+582,['membantu'],5,4,positif,bantu
+583,['mantabbbs'],5,0,positif,mantabbbs
+584,['shope'],5,0,positif,shope
+585,"['senang', 'lihat', 'penjual', 'live']",5,7,positif,senang lihat jual live
+586,"['login', 'aneh']",2,0,positif,login aneh
+587,"['memilih', 'kurir']",3,-5,negatif,pilih kurir
+588,"['lemot', 'bikin', 'emosi', 'mending', 'hapus', 'aplikasi', 'google', 'play', 'store', 'bikin', 'darah']",1,-9,negatif,lot bikin emosi mending hapus aplikasi google play store bikin darah
+589,['bagus'],5,8,positif,bagus
+590,"['suaranya', 'bagus', 'enak', 'dengar', 'cengkoknya']",1,12,positif,suara bagus enak dengar cengkok
+591,"['semoga', 'slalu', 'promo']",5,3,positif,moga slalu promo
+592,['bagus'],4,8,positif,bagus
+593,"['paylater', 'aktip', 'nsnti', 'bintang']",2,0,positif,paylater aktip nsnti bintang
+594,"['shopee', 'lengkap', 'terpercaya']",5,-4,negatif,shopee lengkap percaya
+595,"['like', 'this']",5,0,positif,like this
+596,[],5,0,positif,
+597,"['bagus', 'membeli', 'barang']",5,7,positif,bagus beli barang
+598,"['puas', 'belanja', 'shopee']",5,7,positif,puas belanja shopee
+599,"['driver', 'shopee', 'food', 'dapet', 'driver', 'bareng', 'pesanan', 'orang', 'knpa', 'bertumpuk', 'makanan', 'dingin', 'driver', 'tolong', 'benahi', 'aturan', 'driver', 'nyaa']",1,-4,negatif,driver shopee food dapet driver bareng pesan orang knpa tumpuk makan dingin driver tolong benah atur driver nyaa
+600,['bagus'],5,8,positif,bagus
+601,"['aplikasi', 'bagus']",5,4,positif,aplikasi bagus
+602,['memuaskan'],5,8,positif,muas
+603,"['aplikasi', 'terkadang', 'lambat', 'kalu', 'back']",3,3,positif,aplikasi terkadang lambat kalu back
+604,"['terbantu', 'shopee']",5,0,positif,bantu shopee
+605,"['shoope', 'error', 'download', 'download', 'shoope', 'kejadian', 'error', 'semenjak', 'adek', 'menghapus', 'shopee', 'download', 'gabisa', 'coba', 'shopee', 'tolong', 'saran']",1,-28,negatif,shoope error download download shoope jadi error semenjak adek hapus shopee download gabisa coba shopee tolong saran
+606,"['parah', 'banget', 'shopee', 'paylater', 'spinjam', 'nonaktifkan', 'berfungsi', 'lunas', 'dinonaktifkan', 'gajelas']",2,-2,negatif,parah banget shopee paylater spinjam nonaktif fungsi lunas nonaktif gajelas
+607,['nice'],5,4,positif,nice
+608,['bagus'],5,8,positif,bagus
+609,[],2,0,positif,
+610,"['aplikasi', 'belanja', 'lengkap', 'recomen', 'belanja', 'kebutuhan', 'mantap']",5,16,positif,aplikasi belanja lengkap recomen belanja butuh mantap
+611,"['ngadain', 'event', 'voucher', 'kaget', 'masuk', 'event', 'putih', 'doang', 'gabisa', 'klaim', 'hadeh']",3,-11,negatif,ngadain event voucher kaget masuk event putih doang gabisa klaim hadeh
+612,"['aneh', 'berandanya', 'diklik', 'video', 'diklik', 'barang', 'beda', 'divideo', 'buka', 'barang', 'doble', 'klik', 'diberanda', 'repot', 'bett']",1,-12,negatif,aneh beranda klik video klik barang beda video buka barang doble klik beranda repot bett
+613,"['bgus', 'pelayanannya']",5,0,positif,bgus layan
+614,"['tren', 'alasan', 'iklan', 'mengganggu', 'user', 'apple', 'trlalu', 'ngaruh', 'user', 'andro', 'kebawah', 'ituu', 'kali', 'spam', 'iklan', 'muak', 'iklan', 'bikin', 'iklan', 'bikin', 'spam']",1,-29,negatif,tren alas iklan ganggu user apple trlalu ngaruh user andro bawah ituu kali spam iklan muak iklan bikin iklan bikin spam
+615,['shopee'],5,2,positif,shopee
+616,['aplikasi'],5,-2,negatif,aplikasi
+617,"['yaaahh', 'mantap']",5,8,positif,yaaahh mantap
+618,"['aplikasi', 'toko', 'lumayan', 'mengecewakannya']",3,-10,negatif,aplikasi toko lumayan kecewa
+619,"['error', 'mati', 'matian', 'melulu']",3,-9,negatif,error mati mati melulu
+620,['good'],5,5,positif,good
+621,['bagus'],5,8,positif,bagus
+622,"['mmbantu', 'mager']",5,-4,negatif,mmbantu mager
+623,"['parah', 'shopee', 'food', 'semenjak', 'driver', 'ambil', 'orderan', 'nasi', 'dingin', 'tolong', 'kembalikan', 'layanan', 'driver', 'orderan', 'makanan']",1,-9,negatif,parah shopee food semenjak driver ambil order nasi dingin tolong kembali layan driver order makan
+624,['mantullll'],5,0,positif,mantullll
+625,"['terkadang', 'suka', 'membili', 'shopee', 'harga', 'terjangkau', 'kecewa', 'barang', 'pesan', 'realpict', 'tempatx', 'sesuai', 'harga', 'harga', 'memanipulasi', 'barang']",3,-19,negatif,terkadang suka membili shopee harga jangkau kecewa barang pesan realpict tempatx sesuai harga harga manipulasi barang
+626,['keren'],5,3,positif,keren
+627,"['bagus', 'aplikasinya']",5,8,positif,bagus aplikasi
+628,"['shopee', 'blanja', 'mmbantu']",4,3,positif,shopee blanja mmbantu
+629,"['mantap', 'super']",5,9,positif,mantap super
+630,"['puas', 'berbelanja', 'shopee', 'harganya', 'lumayan', 'kualitasnya', 'bgus']",5,8,positif,puas belanja shopee harga lumayan kualitas bgus
+631,"['perbanyak', 'gratis', 'ongkir', 'biar', 'belanja', 'shopee']",4,-2,negatif,banyak gratis ongkir biar belanja shopee
+632,"['aplikasi', 'benol']",5,-7,negatif,aplikasi benol
+633,"['puas', 'beli', 'shopee', 'kerna', 'toko', 'dngan', 'shopee', 'produk', 'brang', 'bagus', 'bnyak', 'toko', 'amanah', 'jualan', 'shopee', 'mksih', 'shopee']",5,22,positif,puas beli shopee kerna toko dngan shopee produk brang bagus bnyak toko amanah jual shopee mksih shopee
+634,"['membatu', 'berbelanja', 'transakai', 'terbaik']",5,13,positif,batu belanja transakai baik
+635,"['pengiriman', 'cepattt']",4,-5,negatif,kirim cepattt
+636,"['voucher', 'diskon', 'shopee', 'video', 'dikurangin', 'mulu']",1,4,positif,voucher diskon shopee video rangin mulu
+637,"['persen', 'barang', 'banget', 'lodingnya', 'install', 'ulang', 'tetep', 'kaya', 'tolong', 'diperbaiki']",1,0,positif,persen barang banget lodingnya install ulang tetep kaya tolong baik
+638,"['mode', 'malam']",2,-6,negatif,mode malam
+639,"['bagus', 'lelet', 'jaringan', 'mksi']",5,3,positif,bagus lelet jaring mksi
+640,['mantul'],5,0,positif,mantul
+641,"['senang', 'berbelanja', 'keranjang', 'kuning']",5,0,positif,senang belanja keranjang kuning
+642,"['aplikasi', 'membantu']",5,0,positif,aplikasi bantu
+643,[],5,0,positif,
+644,"['shopee', 'beli', 'barang', 'langsung', 'batasi', 'nggak', 'pakai', 'belanja', 'jual']",1,-8,negatif,shopee beli barang langsung batas nggak pakai belanja jual
+645,['mantap'],5,8,positif,mantap
+646,"['shopee', 'mantap']",5,8,positif,shopee mantap
+647,[],5,0,positif,
+648,[],5,2,positif,
+649,"['mudah', 'shopping', 'tinggal', 'bayar', 'dirumah']",5,-1,negatif,mudah shopping tinggal bayar rumah
+650,"['mksih', 'shopee']",5,0,positif,mksih shopee
+651,"['karta', 'burik', 'back', 'melulu', 'beli', 'mahal', 'biar', 'back', 'buriq', 'nyalahin', 'dongo']",5,-18,negatif,karta burik back melulu beli mahal biar back buriq nyalahin dongo
+652,"['puas', 'shoppi']",5,3,positif,puas shoppi
+653,"['paket', 'kirim', 'telat', 'tulisan', 'paket', 'gagal', 'pesan', 'tanggal', 'april', 'sampe', 'sampe']",1,-7,negatif,paket kirim telat tulis paket gagal pesan tanggal april sampe sampe
+654,[],5,0,positif,
+655,"['belanja', 'fitur', 'paylater', 'aktifkan', 'kepentingan', 'aktifkan', 'kemarin', 'nyobak', 'aktifin', 'paylaternya', 'gagal', 'suruh', 'ulang', 'swdangkan', 'butuhnya', 'kemarin', 'suruh', 'pdahal', 'belanja', 'nggk', 'sedikitpun', 'ngeluarin', 'fitur', 'tolong', 'bagusin', 'mending', 'hapus', 'fiturnya']",1,-9,negatif,belanja fitur paylater aktif penting aktif kemarin nyobak aktifin paylaternya gagal suruh ulang swdangkan butuh kemarin suruh pdahal belanja nggk sedikit ngeluarin fitur tolong bagusin mending hapus fiturnya
+656,"['mantap', 'semoga', 'dibikin', 'kemudahan', 'diskon', 'ongkir', 'pling', 'murah', 'aminnnn']",5,19,positif,mantap moga bikin mudah diskon ongkir pling murah aminnnn
+657,['nice'],5,4,positif,nice
+658,"['subscribe', 'mrkozhe']",5,0,positif,subscribe mrkozhe
+659,['back'],1,-3,negatif,back
+660,"['brangny', 'bgus', 'toko', 'gercep', 'responny', 'chat', 'tolong', 'harga', 'murah', 'biar', 'bnyak', 'pesen']",5,11,positif,brangny bgus toko gercep responny chat tolong harga murah biar bnyak sen
+661,"['sukses', 'sllu', 'shoope']",5,3,positif,sukses sllu shoope
+662,['mantap'],5,8,positif,mantap
+663,"['ritel', 'belanja', 'good', 'jobss']",5,11,positif,ritel belanja good jobss
+664,['pengiriman'],4,-3,negatif,kirim
+665,"['puas', 'produk', 'shopee']",5,6,positif,puas produk shopee
+666,"['pesan', 'shopee', 'food', 'berkali', 'kali', 'cancel', 'driver', 'alasannya', 'merchant', 'tutup', 'aplikasinya', 'buka', 'parah', 'bayar', 'pakai', 'shopee']",3,-15,negatif,pesan shopee food kali kali cancel driver alas merchant tutup aplikasi buka parah bayar pakai shopee
+667,"['mohon', 'maaf', 'aplikasinya', 'berat', 'ngebug', 'error', 'toko', 'ratinknya', 'jelek', 'mohon', 'blokir', 'tokonya', 'amanah', 'laporan', 'toko', 'lihat', 'ratink', 'jlek', 'mohon', 'langsung', 'blokir', 'shopee', 'toko', 'online', 'terbaik', 'bebas', 'kuman', 'terima kasih']",3,-10,negatif,mohon maaf aplikasi berat ngebug error toko ratinknya jelek mohon blokir toko amanah lapor toko lihat ratink jlek mohon langsung blokir shopee toko online baik bebas kuman terima kasih
+668,['bagus'],5,7,positif,bagus
+669,['sukses'],5,3,positif,sukses
+670,"['mantaps', 'banget', 'gagayaan']",5,2,positif,mantaps banget gagayaan
+671,"['jack', 'carta', 'tolol', 'datanya', 'stabil', 'aplikasinya', 'bagus', 'banget']",5,2,positif,jack carta tolol data stabil aplikasi bagus banget
+672,['komisinya'],1,-7,negatif,komisi
+673,"['senang', 'belanja', 'shopee', 'kemana', 'harga', 'murah']",5,16,positif,senang belanja shopee mana harga murah
+674,"['dipaksa', 'bintang']",5,-4,negatif,paksa bintang
+675,"['belanja', 'shopee', 'memuaskan']",5,12,positif,belanja shopee muas
+676,['bagus'],5,8,positif,bagus
+677,"['shopee', 'update', 'bagus', 'kekurangan', 'memakan', 'ruang', 'penyimpanan', 'penuh', 'aplikasi', 'hapus', 'memori']",4,-14,negatif,shopee update bagus kurang makan ruang simpan penuh aplikasi hapus memori
+678,"['membantu', 'banget', 'mantap']",5,13,positif,bantu banget mantap
+679,['bagus'],5,8,positif,bagus
+680,['jaman'],5,-5,negatif,jaman
+681,"['belanja', 'pakai', 'shopee', 'shopee', 'rekomended']",5,6,positif,belanja pakai shopee shopee rekomended
+682,"['mengemas', 'barang', 'singkat', 'epic', 'mengemas', 'benda', 'anak', 'lahir', 'memasukan', 'bendanya', 'plastic', 'toko', 'mengemas', 'benda', 'ukuran', 'inch', 'aplikasi', 'tolol', 'banget', 'mengemas', 'minggu', 'kirim', 'kirim', 'batalin', 'seminggu', 'paket', 'aniing']",1,-31,negatif,emas barang singkat epic emas benda anak lahir pasu benda plastic toko emas benda ukur inch aplikasi tolol banget emas minggu kirim kirim batalin minggu paket aniing
+683,"['kualitas', 'barang', 'sesuai', 'iklan', 'rasakan']",5,7,positif,kualitas barang sesuai iklan rasa
+684,"['aplikasi', 'force', 'close', 'dibuka', 'detik', 'coba', 'install', 'ulang', 'kali', 'versi', 'play', 'store', 'force', 'close', 'jaringan', 'aplikasi', 'force', 'close', 'hubungannya', 'jaringan']",5,-33,negatif,aplikasi force close buka detik coba install ulang kali versi play store force close jaring aplikasi force close hubung jaring
+685,['membantu'],5,4,positif,bantu
+686,"['belanja', 'tebih', 'mudah', 'pilihan']",5,12,positif,belanja tebih mudah pilih
+687,"['goodd', 'amanah']",5,5,positif,goodd amanah
+688,"['bagussssss', 'bangeeett']",5,0,positif,bagussssss bangeeett
+689,"['good', 'mantab']",5,7,positif,good mantab
+690,"['aplikasi', 'bagus']",5,4,positif,aplikasi bagus
+691,"['susah', 'mencari', 'driver', 'shopeefood']",3,-6,negatif,susah cari driver shopeefood
+692,"['apahal', 'terkadang', 'ongkir', 'berkali', 'kali', 'lipat', 'mahal', 'beli', 'beli', 'pelindung', 'hape', 'ribu', 'anjir', 'ongkir']",1,-4,negatif,apahal terkadang ongkir kali kali lipat mahal beli beli lindung hape ribu anjir ongkir
+693,['ribet'],5,-4,negatif,ribet
+694,['memuaskan'],5,8,positif,muas
+695,"['dibilang', 'jaringan', 'pdhl', 'jaringan', 'kenceng', 'bnget']",3,-7,negatif,bilang jaring pdhl jaring kenceng bnget
+696,"['aplikasi', 'membantu', 'berbelanja', 'produk', 'terjual', 'kota', 'sukses', 'shopee']",5,-1,negatif,aplikasi bantu belanja produk jual kota sukses shopee
+697,[],5,2,positif,
+698,"['kapok', 'belanja', 'barang', 'palsu', 'shoppe', 'seakan', 'membiarkan', 'seller', 'merajalela', 'aplikasi']",1,-10,negatif,kapok belanja barang palsu shoppe akan biar seller rajalela aplikasi
+699,"['puas', 'banget', 'belanja', 'shopee']",5,8,positif,puas banget belanja shopee
+700,"['pengiriman', 'infonya', 'barang', 'dikirim', 'penerima', 'lokasi', 'seharian', 'dirumah', 'nungguin', 'paket', 'jasa', 'pengiriman', 'amanah']",2,-10,negatif,kirim info barang kirim terima lokasi hari rumah nungguin paket jasa kirim amanah
+701,"['shoppi', 'emang']",5,0,positif,shoppi emang
+702,"['shope', 'konten', 'mudah', 'berbelanja', 'tampa', 'rumah']",4,9,positif,shope konten mudah belanja tampa rumah
+703,"['parah', 'buka', 'video', 'freeze', 'parah', 'gimna', 'jaringan', 'aman', 'seberat', 'bikin', 'emosi']",1,-15,negatif,parah buka video freeze parah gimna jaring aman berat bikin emosi
+704,"['shoppe', 'peraturan', 'memberatkan', 'penjual', 'penjual', 'reseller', 'jual', 'dishopee', 'pengemasan', 'pendek', 'free']",1,0,positif,shoppe atur berat jual jual reseller jual dishopee emas pendek free
+705,[],5,0,positif,
+706,['dengannya'],5,0,positif,dengan
+707,['mantap'],5,8,positif,mantap
+708,"['semoga', 'berkah', 'aminnnn']",5,4,positif,moga berkah aminnnn
+709,['membantu'],5,4,positif,bantu
+710,['baikk'],5,0,positif,baikk
+711,[],4,2,positif,
+712,"['tetgjv', 'jmnvc', 'hjjiooihgxz', 'jllljjnj', 'klllm', 'nnmmmmmmmn', 'nmlllm', 'nmbnmmmb', 'lllkkvvvjnkmmknnknnmbbnn', 'vvmmn', 'xxxcvbnnmkll', 'bnkkknjhnknnnnj', 'nncfgbhkklllll', 'nmbbmmncm', 'vbnnnb', 'bbnnkk', 'hjjknnkklk', 'nkkkjkvxz']",3,0,positif,tetgjv jmnvc hjjiooihgxz jllljjnj klllm nnmmmmmmmn nmlllm nmbnmmmb lllkkvvvjnkmmknnknnmbbnn vvmmn xxxcvbnnmkll bnkkknjhnknnnnj nncfgbhkklllll nmbbmmncm vbnnnb bbnnkk hjjknnkklk nkkkjkvxz
+713,"['harga', 'free', 'ongkir', 'kecepatan', 'ekspedisi', 'barang', 'lengkap', 'terjangkau', 'kdpnya', 'sortir', 'toko', 'bermodus', 'penipuan', 'kebanyakan', 'toko', 'penjual', 'gadget', 'kenyamanan', 'pelangggan', 'terima kasih']",5,13,positif,harga free ongkir cepat ekspedisi barang lengkap jangkau kdpnya sortir toko modus tipu banyak toko jual gadget nyaman pelangggan terima kasih
+714,"['ngebug', 'bayar', 'tagihan', 'uang', 'masuk', 'notifikasi', 'pembayaran', 'berhasil', 'status', 'pembayaran', 'bayar', 'hadehh']",2,-4,negatif,ngebug bayar tagih uang masuk notifikasi bayar hasil status bayar bayar hadehh
+715,"['makaaih', 'shopee', 'belanja', 'online', 'terpercaya', 'respon', 'cepat', 'tannggap', 'pengiriman', 'cepat', 'sampainya', 'alamat', 'tujuan']",5,10,positif,makaaih shopee belanja online percaya respon cepat tannggap kirim cepat sampai alamat tuju
+716,"['loading', 'eror', 'gambar', 'tower']",1,-5,negatif,loading eror gambar tower
+717,"['toko', 'online', 'sipp']",5,0,positif,toko online sipp
+718,"['aplikasi', 'bagus', 'saran', 'fitur', 'auto', 'scroll', 'vidio', 'shoope', 'vidio', 'profil', 'kreator', 'setuju', 'usulan', 'mohon', 'terima', 'kasih']",5,-3,negatif,aplikasi bagus saran fitur auto scroll vidio shoope vidio profil kreator tuju usul mohon terima kasih
+719,['download'],1,0,positif,download
+720,"['terima kasih', 'shopee']",5,4,positif,terima kasih shopee
+721,"['estimasi', 'mazuk', 'akal', 'estimasi', 'kirim', 'penjual', 'pengirimannya', 'bnget', 'kurirnya', 'nyantai']",1,-5,negatif,estimasi mazuk akal estimasi kirim jual kirim bnget kurir nyantai
+722,"['event', 'game', 'shope', 'tipu', 'shope', 'candy']",1,2,positif,event game shope tipu shope candy
+723,"['terbaik', 'shoopepay', 'later']",5,-1,negatif,baik shoopepay later
+724,"['pilihan', 'voucher']",5,8,positif,pilih voucher
+725,"['diupdate', 'nonton', 'live']",1,1,positif,diupdate nonton live
+726,"['belanja', 'online', 'shopee', 'bikin', 'nagih', 'pemesanan', 'cepat', 'banget']",5,6,positif,belanja online shopee bikin nagih mesan cepat banget
+727,"['seles', 'penipu', 'bikin', 'rugi']",1,-9,negatif,les tipu bikin rugi
+728,"['nyari', 'barang', 'ketemu', 'dipencet', 'ditugguin', 'buka', 'tokonya', 'force', 'close', 'ngulang', 'datanya', 'jalan']",5,-12,negatif,nyari barang ketemu pencet ditugguin buka toko force close ngulang data jalan
+729,[],5,0,positif,
+730,"['berguna', 'terima kasih']",5,10,positif,guna terima kasih
+731,"['daftar', 'splater', 'kali', 'sampe', 'mending', 'belanja', 'tiktok']",1,1,positif,daftar splater kali sampe mending belanja tiktok
+732,"['mantap', 'bosku']",5,8,positif,mantap bos
+733,"['semoga', 'shopee', 'gratis', 'ongkir']",5,4,positif,moga shopee gratis ongkir
+734,"['main', 'game', 'gangu', 'main', 'game', 'iklan']",1,4,positif,main game gangu main game iklan
+735,"['aplikasinya', 'membantu', 'nyaman']",5,8,positif,aplikasi bantu nyaman
+736,"['lumayan', 'manyun', 'wkwkwk']",5,2,positif,lumayan manyun wkwkwk
+737,[],5,0,positif,
+738,['lumayan'],5,-1,negatif,lumayan
+739,['shoppy'],5,-2,negatif,shoppy
+740,['mantap'],4,8,positif,mantap
+741,"['eroro', 'mulu']",3,-1,negatif,eroro mulu
+742,"['gratis', 'ongkir', 'belanja', 'hemat']",5,9,positif,gratis ongkir belanja hemat
+743,['bagus'],5,8,positif,bagus
+744,"['fast', 'good']",5,5,positif,fast good
+745,['terima kasih'],5,4,positif,terima kasih
+746,"['percepatkan', 'penghantaran', 'suka', 'harga', 'shopee', 'sesuai', 'murah', 'berkualitas']",5,14,positif,cepat hantar suka harga shopee sesuai murah kualitas
+747,"['beranda', 'kebuka', 'keterangan', 'sinyal', 'shoppe']",2,-12,negatif,beranda buka terang sinyal shoppe
+748,"['ditipu', 'toko', 'mengembalikan', 'uang', 'tolong', 'shopee', 'diganti', 'duit']",1,-13,negatif,tipu toko kembali uang tolong shopee ganti duit
+749,[],5,0,positif,
+750,"['pesanan', 'gangguan', 'siang', 'loading', 'mulu']",2,-4,negatif,pesan ganggu siang loading mulu
+751,['bagus'],5,8,positif,bagus
+752,"['shopee', 'memeng', 'best']",5,2,positif,shopee memeng best
+753,['godjob'],2,0,positif,godjob
+754,"['loadingnya', 'apkh', 'efek', 'sampink', 'ketank']",4,-1,negatif,loadingnya apkh efek sampink tank
+755,['taiiiii'],1,0,positif,taiiiii
+756,"['belanja', 'mudah', 'murah']",5,14,positif,belanja mudah murah
+757,"['checkout', 'muter']",1,-2,negatif,checkout muter
+758,['mantap'],5,8,positif,mantap
+759,['puas'],5,-2,negatif,puas
+760,"['shoppe', 'bagus', 'belanja', 'online', 'ribet', 'sayangnya', 'belanja', 'vape', 'umur', 'tolong', 'ufdate', 'tokopedia', 'sedia', 'barang', 'kebutuhan', 'anak', 'umur', 'bikin', 'membeli', 'barang', 'vape', 'hapus', 'vape', 'shoppe', 'bikin', 'nyaman', 'vape', 'beli', 'umur', 'tlong', 'hapus', 'rokok', 'elektrik']",4,-17,negatif,shoppe bagus belanja online ribet sayang belanja vape umur tolong ufdate tokopedia sedia barang butuh anak umur bikin beli barang vape hapus vape shoppe bikin nyaman vape beli umur tlong hapus rokok elektrik
+761,"['harga', 'barang', 'murah']",5,10,positif,harga barang murah
+762,"['shopee', 'online', 'shop', 'lemot', 'parah', 'klaim', 'vocher', 'lemot', 'masuk', 'pesanan', 'lemot', 'menit', 'permainan', 'bner']",1,-21,negatif,shopee online shop lot parah klaim vocher lot masuk pesan lot menit main bner
+763,"['mudah', 'asyik']",5,3,positif,mudah asyik
+764,"['parah', 'date', 'versi', 'imusha', 'milih', 'barang', 'klik', 'back', 'beranda']",1,-12,negatif,parah date versi imusha milih barang klik back beranda
+765,"['update', 'berat', 'liat', 'live', 'shopee', 'buka', 'game', 'liat', 'produk', 'susah', 'dibuka', 'sudan', 'login', 'clear', 'cache', 'buka', 'youtube', 'lancar']",3,2,positif,update berat liat live shopee buka game liat produk susah buka sudan login clear cache buka youtube lancar
+766,"['shopeepay', 'bisaa', 'gnti', 'nomer', 'lamaa', 'membantu', 'sekalii', 'ribett', 'uangnya', 'diambil']",1,9,positif,shopeepay bisaa gnti nomer lamaa bantu sekali ribett uang ambil
+767,"['angus', 'aplikasinya', 'dijamin', 'instal', 'aplikasi', 'dijamin', 'nyesel']",5,-9,negatif,angus aplikasi jamin instal aplikasi jamin nyesel
+768,"['shopee', 'gajelas', 'aneh', 'banget', 'ngapa', 'ngapaij']",1,1,positif,shopee gajelas aneh banget ngapa ngapaij
+769,['limit'],1,-3,negatif,limit
+770,"['sistem', 'vocher', 'kagetnya', 'perasaan', 'nyoba', 'dijam', 'muncul', 'skli', 'muncul', 'wktunya', 'banget']",2,-7,negatif,sistem vocher kaget asa nyoba jam muncul skli muncul wktunya banget
+771,"['shoppe', 'pilihan']",5,5,positif,shoppe pilih
+772,"['jaringan', 'wifi', 'ngelag', 'kocak', 'hpnya', 'bagus', 'aneh']",1,5,positif,jaring wifi ngelag kocak hpnya bagus aneh
+773,"['terima', 'kasih', 'shopee', 'membantu', 'membeli', 'produk', 'negeri', 'maaf', 'konten', 'foto', 'produk', 'perbesar']",5,6,positif,terima kasih shopee bantu beli produk negeri maaf konten foto produk besar
+774,"['shopee', 'berterimakasih', 'mempermudah', 'membeli', 'menjual', 'barang']",5,-16,negatif,shopee berterimakasih mudah beli jual barang
+775,"['abis', 'update', 'belanja', 'hadeh', 'chat', 'bantuan', 'mulu']",1,1,positif,abis update belanja hadeh chat bantu mulu
+776,"['pelit', 'voucher']",1,2,positif,pelit voucher
+777,['pelayanan'],5,3,positif,layan
+778,"['promo', 'hacker']",3,3,positif,promo hacker
+779,"['membantu', 'cepat', 'pesanan', 'barang', 'kunjung', 'toko']",5,7,positif,bantu cepat pesan barang kunjung toko
+780,"['gagal', 'daftar', 'paylater', 'pinjaman']",5,-9,negatif,gagal daftar paylater pinjam
+781,['baguss'],4,0,positif,baguss
+782,"['kesini', 'kesono', 'daftar', 'ribet', 'daftar', 'boro', 'boro', 'pakai']",1,-13,negatif,kesini sono daftar ribet daftar boro boro pakai
+783,"['shopee', 'notif', 'kali', 'main', 'terganggu']",1,0,positif,shopee notif kali main ganggu
+784,"['berat', 'banget', 'aplikasinya']",1,1,positif,berat banget aplikasi
+785,"['ketik', 'pencarian', 'type', 'merek', 'barang', 'kadang', 'sesuai', 'pencarian', 'sisanya', 'sesuai', 'pencarian', 'type', 'merek']",4,0,positif,ketik cari type merek barang kadang sesuai cari sisa sesuai cari type merek
+786,"['sopee', 'emang', 'terpercaya']",5,0,positif,sopee emang percaya
+787,"['belanja', 'shopee', 'belanja', 'shopee', 'food', 'pelayanan', 'buruk', 'banget', 'memecahkan']",1,-5,negatif,belanja shopee belanja shopee food layan buruk banget pecah
+788,"['shopee', 'best', 'apapun', 'mslhnya', 'smua', 'terselesaikan']",5,2,positif,shopee best apa mslhnya smua selesai
+789,"['semuax', 'bagus', 'sayang', 'produk', 'mimis', 'senapan', 'angin', 'hobi', 'lomba', 'bolehin', 'pemerintah', 'kaliber', 'halal']",4,7,positif,semuax bagus sayang produk mimis senapan angin hobi lomba bolehin perintah kaliber halal
+790,[],4,4,positif,
+791,"['shopeepay', 'uangnya', 'pakai', 'alasan', 'akunnya', 'kadarluarsa']",1,0,positif,shopeepay uang pakai alas akun kadarluarsa
+792,"['bintang', 'shopee', 'kecewa', 'pakai', 'banget', 'kasih', 'limit', 'gede', 'entar', 'hapus', 'aplikasi', 'shopee', 'auto', 'kecewa']",1,-7,negatif,bintang shopee kecewa pakai banget kasih limit gede entar hapus aplikasi shopee auto kecewa
+793,[],5,-2,negatif,
+794,"['mending', 'ekspedisi', 'shopee', 'ekspress', 'hapus', 'becus', 'merugikan', 'penjual', 'pembeli', 'paket', 'ditimbun', 'counter', 'dbiliang', 'ambil', 'ditunggu', 'kurir', 'idak', 'nian', 'becus']",1,-14,negatif,mending ekspedisi shopee ekspress hapus becus rugi jual beli paket timbun counter dbiliang ambil tunggu kurir idak nian becus
+795,"['berbelanja', 'mudah', 'simple', 'anti', 'ribet']",5,3,positif,belanja mudah simple anti ribet
